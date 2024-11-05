@@ -1,8 +1,7 @@
 import scrapy
-    
 
 class BookSpider(scrapy.Spider):
-    name = "textbook"
+    name = "economics"
     start_urls = [
         'https://openstax.org/books/principles-economics-3e/pages/1-introduction',
         'https://openstax.org/books/principles-microeconomics-3e/pages/1-introduction',
@@ -23,16 +22,17 @@ class BookSpider(scrapy.Spider):
                 yield response.follow(link, self.parse_key_concepts_and_summary)
             elif 'self-check-questions' in link:
                 yield response.follow(link, self.parse_self_check_questions)
-            elif 'review-questions' in link:
-                yield response.follow(link, self.parse_review_questions)
-            elif 'critical-thinking-questions' in link:
-                yield response.follow(link, self.parse_critical_thinking_questions)
-            elif 'preface' in link:
-                continue
-            elif 'introduction' in link:
-                yield response.follow(link, self.parse_introduction)
+            # elif 'review-questions' in link:
+            #     yield response.follow(link, self.parse_review_questions)
+            # elif 'critical-thinking-questions' in link:
+            #     yield response.follow(link, self.parse_critical_thinking_questions)
+            # elif 'preface' in link:
+            #     continue
+            # elif 'introduction' in link:
+            #     yield response.follow(link, self.parse_introduction)
             else:
-                yield response.follow(link, self.parse_chapter)
+                # yield response.follow(link, self.parse_chapter)
+                pass
 
     def parse_preface(self, response):
         pass
@@ -68,12 +68,26 @@ class BookSpider(scrapy.Spider):
         chapter_text = content.css('::text').getall()
 
         chapter_text = ''.join(chapter_text)
+
+        key_terms = []
+        for dl in content.css('dl'):
+            term = dl.css('dt::text').get()
+            definition = dl.css('dd::text').get()
+            
+            if term and definition:
+                key_terms.append({
+                    'term': term.strip(),
+                    'definition': definition.strip()
+                })
+
+
         yield {
                 'section_name': section_name,
                 'section_text': chapter_text,
                 'chapter_name': chapter_name,
                 'textbook_name': textbook_name,
-                'chapter_url': chapter_url
+                'chapter_url': chapter_url,
+                'key_terms': key_terms
             }
 
 
@@ -87,12 +101,27 @@ class BookSpider(scrapy.Spider):
         chapter_text = content.css('::text').getall()
 
         chapter_text = ''.join(chapter_text)
+
+        key_concepts_and_summary = []
+        for section in content.css('section.summary'):
+            # Extract the concept from the section title
+            concept = section.css('h2 .os-text::text').get()
+            
+            # Collect all paragraphs as the definition
+            definition = ' '.join(section.css('p::text').getall())
+            
+            if concept and definition:
+                key_concepts_and_summary.append({
+                    'concept': concept.strip(),
+                    'definition': definition.strip()
+                })
         yield {
                 'section_name': section_name,
                 'section_text': chapter_text,
                 'chapter_name': chapter_name,
                 'textbook_name': textbook_name,
-                'chapter_url': chapter_url
+                'chapter_url': chapter_url,
+                'key_concepts_and_summary': key_concepts_and_summary
             }
 
 
@@ -115,7 +144,9 @@ class BookSpider(scrapy.Spider):
             'section_text': qa_pair,
             'chapter_name': response.meta['chapter_name'],
             'textbook_name': response.meta['textbook_name'],
-            'chapter_url': response.meta['chapter_url']
+            'chapter_url': response.meta['chapter_url'],
+            'question': question_text,
+            'answer': answer_text
         }
 
     def parse_self_check_questions(self, response):
