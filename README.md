@@ -1,5 +1,6 @@
 # cs7650_group_project
 
+<<<<<<< Updated upstream
 
 Json files in openstax/processed_output.json.
 
@@ -24,3 +25,10 @@ Please Note the copyright. It is good if the textbook is CC BY, Creative Commons
 
 Search in
 - openstax
+=======
+# For economics textbooks
+scrapy crawl economics -o output.json
+
+# For finance textbook
+scrapy crawl finance -o output.json
+>>>>>>> Stashed changes
