@@ -207,6 +207,8 @@ Modify or rewrite the keypoint to create a misleading keypoint. Keep other keypo
 def demo():
     # Example usage
     client = openai.AzureOpenAI(api_version='2024-06-01')
+    # client = openai.OpenAI()
+    
     KPDistorter = KeyPointDistorter(client, seed=42)
     # Example question
     question = {
