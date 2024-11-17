@@ -5,6 +5,8 @@ import copy
 from typing import List, Dict, Any, Tuple
 
 class KeyPointDistorter:
+    Index_list = 'ABCDEFGHIJK'
+
     def __init__(self, client, model: str = "gpt-4o", temperature: float = 0.0, seed: int = None):
         """Initialize the KeyPointDistorter with OpenAI client and parameters.
         Args:
@@ -15,11 +17,20 @@ class KeyPointDistorter:
         self.client = client
         self.model = model
         self.temperature = temperature
-        self.Index_list = 'ABCDEFGHIJK'
         self.Index_map = {c: i for i, c in enumerate(self.Index_list)}
         self.seed = seed
         if self.seed:
             random.seed(self.seed)
+        self.prompt_results = {}
+
+    def reset_prompt_results(self):
+        self.prompt_results = {}
+
+    def store_prompt_result(self, prompt: str, response: str, step_name: str):
+        """Store the prompt and response for each step."""
+        if step_name not in self.prompt_results:
+            self.prompt_results[step_name] = []
+        self.prompt_results[step_name].append({'prompt': prompt, 'response': response})
 
     def extract_keypoints(self, question: Dict[str, str]) -> Dict[str, Any]:
         """Extract keypoints from the given question and answer."""
@@ -29,7 +40,7 @@ class KeyPointDistorter:
         Gold Answer: {question['answer']}
         Your task: Think about the question and understand the answer first, \
 then extract complete bullet points that are key keypoints based on the answer \
-for rebuilding the answer from scratch for the same question, more keypoints will be helpful.
+for rebuilding the answer from scratch for the same question, more keypoints will be helpful. At leat find 5 keypoints.
         Return a JSON object in this exact format:
                 {{
                     "Analysis": "Analysis of the question, answer, and the keypoints",
@@ -47,8 +58,9 @@ for rebuilding the answer from scratch for the same question, more keypoints wil
             temperature=self.temperature,
             response_format={"type": "json_object"}
         )
-        
-        return json.loads(response.choices[0].message.content)
+        output = json.loads(response.choices[0].message.content)
+        self.store_prompt_result(prompt, output, "extract_keypoints")
+        return output
 
     def distort_keypoint(self, question: str, keypoint: Dict[str, str], other_keypoints: List[Dict[str, str]]) -> Dict[str, Any]:
         """Generate a misleading version of a specific keypoint."""
@@ -82,7 +94,7 @@ Modify or rewrite the keypoint to create a misleading keypoint. Keep other keypo
         )
         output = json.loads(response.choices[0].message.content)
         output['real_old_keypoint'] = keypoint['keypoint']
-        print(output)
+        self.store_prompt_result(prompt, output, "distort_keypoint")
         return output
     
     def generate_true_answer(self, question: str, keypoints: List[Dict[str, str]]) -> str:
@@ -101,17 +113,15 @@ Modify or rewrite the keypoint to create a misleading keypoint. Keep other keypo
         Question: {question}
         {keypoints_prompt}
         """
-        print('='*100)
-        print(prompt)
-        print('='*100)
 
         response = self.client.chat.completions.create(
             model=self.model,
             messages=[{"role": "user", "content": prompt}],
             temperature=self.temperature
         )
-        
-        return response.choices[0].message.content
+        output = response.choices[0].message.content
+        self.store_prompt_result(prompt, output, "generate_true_answer")
+        return output
 
     def generate_mislead_answer(self, question: str, distorted_keypoint: Dict[str, str], other_keypoints: List[Dict[str, str]]) -> str:
         """Generate an answer based on the given keypoints."""
@@ -133,23 +143,21 @@ Modify or rewrite the keypoint to create a misleading keypoint. Keep other keypo
         {main_keypoint_prompt}
         {other_keypoints_prompt}
         """
-        print('='*100)
-        print(prompt)
-        print('='*100)
 
         response = self.client.chat.completions.create(
             model=self.model,
             messages=[{"role": "user", "content": prompt}],
             temperature=self.temperature
         )
-        
-        return response.choices[0].message.content
+        output = response.choices[0].message.content
+        self.store_prompt_result(prompt, output, "generate_mislead_answer")
+        return output
 
     def process_question(self, question: Dict[str, str], num_keypoints: int = 3) -> List[str]:
         """Process a question and generate multiple versions with changed keypoints."""
         # Extract keypoints
         extracted = self.extract_keypoints(question)
-        print(f'number of keypoints: {len(extracted["Keypoints"])}')
+        # print(f'number of keypoints: {len(extracted["Keypoints"])}')
         # Select random keypoints to modify
         random_keypoints = random.sample(extracted['Keypoints'], k=num_keypoints)
         answers = []
@@ -161,7 +169,7 @@ Modify or rewrite the keypoint to create a misleading keypoint. Keep other keypo
         # Generate new versions with distorted keypoints
         count = 0
         for keypoint in random_keypoints:
-            print(count)
+            # print(count)
             other_keypoints = [f for f in extracted['Keypoints'] if f != keypoint]
             # Distort the keypoint
             distorted = self.distort_keypoint(question['question'], keypoint, other_keypoints)
@@ -180,20 +188,25 @@ Modify or rewrite the keypoint to create a misleading keypoint. Keep other keypo
         return answers
     
     def shuffle_and_track(self, lst, fixed=False):
-        # Store the first element
         first_element = lst[0]
-        
         # Shuffle the list
         if not fixed:
             random.shuffle(lst)
-        
         # Find the new index of the original first element
         new_index = lst.index(first_element)
-        
         return lst, new_index
-        
-    def convert_to_MCQ(self, question: Dict[str, str], num_keypoints: int = 3) -> Tuple[str, str]:
+
+    def convert_to_MCQ_v2(self, question: Dict[str, str], num_keypoints: int = 3) -> Tuple[List, str, Dict]:
         answers = self.process_question(question, num_keypoints)
+        # Don't shuffle the answers at this stage
+        temp = self.prompt_results
+
+        self.reset_prompt_results()
+        return answers, 'A', temp
+    
+    def convert_to_MCQ(self, question: Dict[str, str], num_keypoints: int = 3) -> Tuple[str, str, Dict]:
+        answers = self.process_question(question, num_keypoints)
+        # Don't shuffle the answers at this stage
         new_suffle_answer_list, new_index = self.shuffle_and_track(answers, fixed=True)
 
         # Convert to MCQ format
@@ -201,8 +214,20 @@ Modify or rewrite the keypoint to create a misleading keypoint. Keep other keypo
         for i, ans in enumerate(new_suffle_answer_list):
             char = self.Index_list[i]
             output += f'{char}: {new_suffle_answer_list[i]}\n'
-        return output, self.Index_list[new_index]
+        temp = self.prompt_results
 
+        self.reset_prompt_results()
+        return output, self.Index_list[new_index], temp
+
+
+def shuffle_and_track(lst):
+    local_lst = copy.deepcopy(lst)
+    first_element = local_lst[0]
+    # Shuffle the list
+    random.shuffle(local_lst)
+    # Find the new index of the original first element
+    new_index = local_lst.index(first_element)
+    return local_lst, new_index
 
 def demo():
     # Example usage
