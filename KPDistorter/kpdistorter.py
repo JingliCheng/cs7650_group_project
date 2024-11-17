@@ -254,7 +254,6 @@ Modify or rewrite the keypoint to create a misleading keypoint. Keep other keypo
 
 def demo():
     # Example usage
-    # openai.api_key = ""
     client = openai
     
     KPDistorter = KeyPointDistorter(client, seed=42)
