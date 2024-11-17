@@ -20,6 +20,13 @@ class KeyPointDistorter:
         self.seed = seed
         if self.seed:
             random.seed(self.seed)
+        self.prompt_results = {}
+
+    def store_prompt_result(self, prompt: str, response: str, step_name: str):
+        """Store the prompt and response for each step."""
+        if step_name not in self.prompt_results:
+            self.prompt_results[step_name] = []
+        self.prompt_results[step_name].append({'prompt': prompt, 'response': response})
 
     def extract_keypoints(self, question: Dict[str, str]) -> Dict[str, Any]:
         """Extract keypoints from the given question and answer."""
@@ -41,14 +48,37 @@ for rebuilding the answer from scratch for the same question, more keypoints wil
                 }}
         """
 
-        response = self.client.chat.completions.create(
+        response = self.client.ChatCompletion.create(
             model=self.model,
             messages=[{"role": "user", "content": prompt}],
             temperature=self.temperature,
-            response_format={"type": "json_object"}
+            functions=[{
+                "name": "extract_keypoints",
+                "description": "Extract keypoints from the answer.",
+                "parameters": {
+                    "type": "object",
+                    "properties": {
+                        "Analysis": {"type": "string"},
+                        "Keypoints": {
+                            "type": "array",
+                            "items": {
+                                "type": "object",
+                                "properties": {
+                                    "keypoint": {"type": "string"},
+                                    "detail": {"type": "string"}
+                                },
+                                "required": ["keypoint", "detail"]
+                            }
+                        }
+                    },
+                    "required": ["Analysis", "Keypoints"]
+                }
+            }],
+            function_call={"name": "extract_keypoints"}
         )
-        
-        return json.loads(response.choices[0].message.content)
+        arguments = response.choices[0].message["function_call"]["arguments"]
+        self.store_prompt_result(prompt, arguments, "extract_keypoints")
+        return json.loads(arguments)
 
     def distort_keypoint(self, question: str, keypoint: Dict[str, str], other_keypoints: List[Dict[str, str]]) -> Dict[str, Any]:
         """Generate a misleading version of a specific keypoint."""
@@ -74,14 +104,32 @@ Modify or rewrite the keypoint to create a misleading keypoint. Keep other keypo
                 }
         """
 
-        response = self.client.chat.completions.create(
+        response = self.client.ChatCompletion.create(
             model=self.model,
             messages=[{"role": "user", "content": prompt}],
             temperature=self.temperature,
-            response_format={"type": "json_object"}
+            functions=[{
+                "name": "distort_keypoint",
+                "description": "Distort a keypoint to create a misleading version.",
+                "parameters": {
+                    "type": "object",
+                    "properties": {
+                        "analysis_1": {"type": "string"},
+                        "analysis_2": {"type": "string"},
+                        "new_keypoint": {"type": "string"},
+                        "new_keypoint_detail": {"type": "string"},
+                        "old_keypoint": {"type": "string"},
+                        "old_keypoint_detail": {"type": "string"}
+                    },
+                    "required": ["analysis_1", "analysis_2", "new_keypoint", "new_keypoint_detail", "old_keypoint", "old_keypoint_detail"]
+                }
+            }],
+            function_call={"name": "distort_keypoint"}
         )
-        output = json.loads(response.choices[0].message.content)
+        arguments = response.choices[0].message["function_call"]["arguments"]
+        output = json.loads(arguments)
         output['real_old_keypoint'] = keypoint['keypoint']
+        self.store_prompt_result(prompt, arguments, "distort_keypoint")
         print(output)
         return output
     
@@ -105,12 +153,12 @@ Modify or rewrite the keypoint to create a misleading keypoint. Keep other keypo
         print(prompt)
         print('='*100)
 
-        response = self.client.chat.completions.create(
+        response = self.client.ChatCompletion.create(
             model=self.model,
             messages=[{"role": "user", "content": prompt}],
             temperature=self.temperature
         )
-        
+        self.store_prompt_result(prompt, response.choices[0].message["content"], "generate_true_answer")
         return response.choices[0].message.content
 
     def generate_mislead_answer(self, question: str, distorted_keypoint: Dict[str, str], other_keypoints: List[Dict[str, str]]) -> str:
@@ -137,12 +185,12 @@ Modify or rewrite the keypoint to create a misleading keypoint. Keep other keypo
         print(prompt)
         print('='*100)
 
-        response = self.client.chat.completions.create(
+        response = self.client.ChatCompletion.create(
             model=self.model,
             messages=[{"role": "user", "content": prompt}],
             temperature=self.temperature
         )
-        
+        self.store_prompt_result(prompt, response.choices[0].message["content"], "generate_mislead_answer")
         return response.choices[0].message.content
 
     def process_question(self, question: Dict[str, str], num_keypoints: int = 3) -> List[str]:
@@ -206,8 +254,8 @@ Modify or rewrite the keypoint to create a misleading keypoint. Keep other keypo
 
 def demo():
     # Example usage
-    client = openai.AzureOpenAI(api_version='2024-06-01')
-    # client = openai.OpenAI()
+    openai.api_key = "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"
+    client = openai
     
     KPDistorter = KeyPointDistorter(client, seed=42)
     # Example question
@@ -224,6 +272,7 @@ def demo():
     mcq, correct_answer = KPDistorter.convert_to_MCQ(question)
     print(mcq)
     print('correct answer:', correct_answer)
+    print(json.dumps(KPDistorter.prompt_results, indent=2))
 
 if __name__ == "__main__":
     demo()
