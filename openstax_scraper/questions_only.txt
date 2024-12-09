@@ -1,0 +1,5788 @@
+0: Use the demand-and-supply of foreign currency graph to determine what would happen to a small, open economy that experienced capital outflows.
+  
+
+1: What are the different policy tools for dealing with cyclical unemployment?
+  
+
+2: What do international flows of capital have to do with trade imbalances?
+  
+
+3: Show, using the AD/AS model, how governments can use monetary policy to decrease the price level.
+
+4: Use the AD/AS model to show how increases in government spending can lead to more inflation.
+
+5: Use the data in the text to contrast the policy prescriptions of the high-income, middle-income, and low-income countries.
+  
+
+6: How does indexing wage contracts to inflation help workers?
+  
+
+7: Explain how the natural rate of unemployment may be higher in low-income countries.
+  
+
+8: What are the drawbacks to analyzing the global economy on a regional basis?
+  
+
+9: Explain how a tariff reduction causes an increase in the equilibrium quantity of imports and a decrease in the equilibrium price. Hint: Consider the Work It Out "Effects of Trade Barriers."
+
+10: Using the data in Table 19.3, rank the seven regions of the world according to GDP and then according to GDP per capita.
+  
+  
+  
+  
+  Population (in millions)
+  GDP Per Capita
+  GDP = Population × Per Capita GDP (in millions)
+  
+  
+  
+  East Asia and Pacific
+  2,006
+  $5,536
+  $10,450,032
+  
+  
+  South Asia
+  1,671
+  $1,482
+  $2,288,812
+  
+  
+  Sub-Saharan Africa
+  936.1
+  $1,657
+  $1,287,650
+  
+  
+  Latin America and Caribbean
+  588
+  $9,536
+  $5,339,390
+  
+  
+  Middle East and North Africa
+  345.4
+  $3,456
+  $1,541,900
+  
+  
+  Europe and Central Asia
+  272.2
+  $7,118
+  $1,862,384
+  
+  
+
+  Table 
+  19.3
+   
+GDP and Population of Seven Regions of the World
+
+   
+
+
+  
+
+11: If the removal of trade barriers is so beneficial to international economic growth, why would a nation continue to restrict trade on some imported or exported products?
+  
+
+12: Create a table that identifies the macroeconomic policies for a high-income country, a middle-income country, and a low-income country.
+  
+
+13: How can there be any economic gains for a country from both importing and exporting the same good, like cars?
+  
+
+14: In Germany it takes three workers to make one television and four workers to make one video camera. In Poland it takes six workers to make one television and 12 workers to make one video camera.
+
+Who has the absolute advantage in the production of televisions? Who has the absolute advantage in the production of video cameras? How can you tell?
+Calculate the opportunity cost of producing one additional television set in Germany and in Poland. (Your calculation may involve fractions, which is fine.) Which country has a comparative advantage in the production of televisions?
+Calculate the opportunity cost of producing one video camera in Germany and in Poland. Which country has a comparative advantage in the production of video cameras?
+In this example, is absolute advantage the same as comparative advantage, or not?
+In what product should Germany specialize? In what product should Poland specialize?
+
+
+
+15: Why have many education experts recently placed an emphasis on altering the incentives that U.S. schools face rather than on increasing their budgets? Without endorsing any of these proposals as especially good or bad, list some of the ways in which incentives for schools might be altered.
+
+16: Table 20.15 shows how the average costs of production for semiconductors (the “chips” in computer memories) change as the quantity of semiconductors built at that factory increases.
+  
+  Based on these data, sketch a curve with quantity produced on the horizontal axis and average cost of production on the vertical axis. How does the curve illustrate economies of scale?
+  If the equilibrium quantity of semiconductors demanded is 90,000, can this economy take full advantage of economies of scale? What about if quantity demanded is 70,000 semiconductors? 50,000 semiconductors? 30,000 semiconductors?
+  Explain how international trade could make it possible for even a small economy to take full advantage of economies of scale, while also benefiting from competition and the variety offered by several producers.
+  
+  
+  
+  
+  
+  
+  Quantity of Semiconductors
+  Average Total Cost
+  
+  
+  
+  
+    10,000
+  $8 each
+  
+  
+  
+    20,000
+  $5 each
+  
+  
+  
+    30,000
+  $3 each
+  
+  
+  
+    40,000
+  $2 each
+  
+  
+  
+   100,000
+  $2 each
+  
+  
+
+  Table 
+  20.15
+   
+   
+
+
+  
+
+17: What are some steps the government can take to encourage research and development? 
+  
+
+18: Imagine an economy in which Ricardian equivalence holds. This economy has a budget deficit of 50, a trade deficit of 20, private savings of 130, and investment of 100. If the budget deficit rises to 70, how are the other terms in the national saving and investment identity affected?
+  
+
+19: Assume an economy has a budget surplus of 1,000, private savings of 4,000, and investment of 5,000. 
+  Write out a national saving and investment identity for this economy.
+  What will be the balance of trade in this economy?
+  If the budget surplus changes to a budget deficit of 1000, with private saving and investment unchanged, what is the new balance of trade in this economy?
+  
+  
+
+20: What are the gains from competition?
+
+
+21: In the late 1990s, the U.S. government moved from a budget deficit to a budget surplus and the trade deficit in the U.S. economy grew substantially. Using the national saving and investment identity, what can you say about the direction in which saving and/or investment must have changed in this economy?
+  
+
+22: In a country, private savings equals 600, the government budget surplus equals 200, and the trade surplus equals 100. What is the level of private investment in this economy?
+  
+
+23: What might account for the dramatic increase in international trade over the past 50 years?
+
+
+24: How does competition, whether domestic or foreign, harm businesses?
+
+
+25: Why would countries promote protectionist laws, while also negotiate for freer trade internationally?
+
+
+26: What is the difference between a free trade association, a common market, and an economic union?
+
+
+27: Why is the national security argument not convincing?
+
+
+28: Explain how predatory pricing could be a motivation for dumping.
+
+
+29: How does the cost of “saving” jobs in protected industries compare to the workers’ wages and salaries?
+
+
+30: Assume a perfectly competitive market and the exporting country is small. Using a demand and supply diagram, show the impact of increasing standards on a low-income exporter of toys. Show the tariff's impact. Is the effect on toy prices the same or different? Why is a standards policy preferred to tariffs?
+
+31: What are the conditions under which a country may use the unsafe products argument to block imports?
+
+
+32: Explain the logic behind the “race to the bottom” argument and the likely reason it has not occurred.
+
+
+33: Why do low-income countries like Brazil, Egypt, or Vietnam have lower environmental standards than high-income countries like the Germany, Japan, or the United States?
+
+
+34: How do trade barriers affect the average income level in an economy?
+
+
+35: How does international trade affect working conditions of low-income countries?
+
+
+36: Do the jobs for workers in low-income countries that involve making products for export to high-income countries typically pay these workers more or less than their next-best alternative?
+
+
+37: In France it takes one worker to produce one sweater, and one worker to produce one bottle of wine. In Tunisia it takes two workers to produce one sweater, and three workers to produce one bottle of wine. Who has the absolute advantage in production of sweaters? Who has the absolute advantage in the production of wine? How can you tell?
+
+
+38: Explain how trade barriers raise wages in protected industries by reducing average wages economy-wide.
+
+
+39: What are the gains from competition?
+
+
+40: Explain how trade barriers save jobs in protected industries, but only by costing jobs in other industries.
+
+
+41: Explain how a subsidy on agricultural goods like sugar adversely affects the income of foreign producers of imported sugar.
+
+
+42: How does competition, whether domestic or foreign, harm businesses?
+
+
+43: Brazil can produce 100 pounds of beef or 10 autos. In contrast the United States can produce 40 pounds of beef or 30 autos. Which country has the absolute advantage in beef? Which country has the absolute advantage in producing autos? What is the opportunity cost of producing one pound of beef in Brazil? What is the opportunity cost of producing one pound of beef in the United States?
+
+44: True or False: The source of comparative advantage must be natural elements like climate and mineral deposits. Explain.
+
+
+45: What might account for the dramatic increase in international trade over the past 50 years?
+
+
+46: Why would countries promote protectionist laws, while also negotiate for freer trade internationally?
+
+
+47: What is the difference between a free trade association, a common market, and an economic union?
+
+
+48: Explain the logic behind the “race to the bottom” argument and the likely reason it has not occurred.
+
+
+49: Why do low-income countries like Brazil, Egypt, or Vietnam have lower environmental standards than high-income countries like the Germany, Japan, or the United States?
+
+
+50: Assume a perfectly competitive market and the exporting country is small. Using a demand and supply diagram, show the impact of increasing standards on a low-income exporter of toys. Show the tariff's impact. Is the effect on toy prices the same or different? Why is a standards policy preferred to tariffs?
+
+51: What are the conditions under which a country may use the unsafe products argument to block imports?
+
+
+52: Why is the national security argument not convincing?
+
+
+53: Explain how trade barriers save jobs in protected industries, but only by costing jobs in other industries.
+
+
+54: Explain how predatory pricing could be a motivation for dumping.
+
+
+55: How do trade barriers affect the average income level in an economy?
+
+
+56: How does the cost of “saving” jobs in protected industries compare to the workers’ wages and salaries?
+
+
+57: Explain how trade barriers raise wages in protected industries by reducing average wages economy-wide.
+
+
+58: How does international trade affect working conditions of low-income countries?
+
+
+59: Explain how a subsidy on agricultural goods like sugar adversely affects the income of foreign producers of imported sugar.
+
+
+60: Do the jobs for workers in low-income countries that involve making products for export to high-income countries typically pay these workers more or less than their next-best alternative?
+
+
+61: Does a price ceiling increase or decrease the number of transactions in a market? Why? What about a price floor?
+    
+
+62: If a price floor benefits producers, why does a price floor reduce social surplus?
+    
+
+63: A tariff is a tax on imported goods. Suppose the U.S. government cuts the tariff on imported flat screen televisions. Using the four-step analysis, how do you think the tariff reduction will affect the equilibrium price and quantity of flat screen TVs?
+    
+
+64: What would be the impact of imposing a price floor below the equilibrium price?
+    
+
+65: Does a price ceiling change the equilibrium price?
+    
+
+66: Let’s think about the market for air travel. From August 2014 to January 2015, the price of jet fuel increased roughly 47%. Using the four-step analysis, how do you think this fuel price increase affected the equilibrium price and quantity of air travel?
+
+67: Explain how a tariff reduction causes an increase in the equilibrium quantity of imports and a decrease in the equilibrium price. Hint: Consider the Work It Out "Effects of Trade Barriers."
+
+68: What is the effect of a price ceiling on the quantity demanded of the product? What is the effect of a price ceiling on the quantity supplied? Why exactly does a price ceiling cause a shortage?
+    
+
+69: Many changes are affecting the market for oil. Predict how each of the following events will affect the equilibrium price and quantity in the market for oil. In each case, state how the event will affect the supply and demand diagram. Create a sketch of the diagram if necessary.
+
+Cars are becoming more fuel efficient, and therefore get more miles to the gallon.
+The winter is exceptionally cold.
+A major discovery of new oil is made off the coast of Norway.
+The economies of some major oil-using nations, like Japan, slow down.
+A war in the Middle East disrupts oil-pumping schedules.
+Landlords install additional insulation in buildings.
+The price of solar energy falls dramatically.
+Chemical companies invent a new, popular kind of plastic made from oil.
+
+
+
+70: In an analysis of the market for paint, an economist discovers the facts listed below. State whether each of these changes will affect supply or demand, and in what direction.
+
+There have recently been some important cost-saving inventions in the technology for making paint.
+Paint is lasting longer, so that property owners need not repaint as often.
+Because of severe hailstorms, many people need to repaint now.
+
+The hailstorms damaged several factories that make paint, forcing them to close down for several months.
+
+
+71: Review Figure 3.4. Suppose the price of gasoline is $1.60 per gallon. Is the quantity demanded higher or lower than at the equilibrium price of $1.40 per gallon? What about the quantity supplied? Is there a shortage or a surplus in the market? If so, how much?
+
+72: What are the similarities between a consumer’s budget constraint and society’s production possibilities frontier, not just graphically but analytically?
+
+
+73: Why do economists use the ceteris paribus assumption?
+
+
+74: Would an op-ed piece in a newspaper urging the adoption of a particular economic policy be a positive or normative statement?
+
+75: Would a research study on the effects of soft drink consumption on children’s cognitive development be a positive or normative statement?
+
+76: Individuals may not act in the rational, calculating way described by the economic model of decision making, measuring utility and costs at the margin, but can you make a case that they behave approximately that way?
+
+
+77: Return to the example in Figure 2.4. Suppose there is an improvement in medical technology that enables more healthcare with the same amount of resources. How would this affect the production possibilities curve and, in particular, how would it affect the opportunity cost of education?
+
+78: Could a nation be producing in a way that is allocatively efficient, but productively inefficient?
+
+
+79: Why might Belgium, France, Italy, and Sweden have a higher export to GDP ratio than the United States? 
+    
+
+80: Suppose Alphonso’s town raised the price of bus tickets from $0.50 per trip to $1 per trip (while the price of burgers stayed at $2 and his budget remained $10 per week.) Draw Alphonso’s new budget constraint. What happens to the opportunity cost of bus tickets?
+
+81: A computer systems engineer could paint her house, but it makes more sense for her to hire a painter to do it. Explain why. 
+
+82: What is an example of a problem in the world today, not mentioned in the chapter, that has an economic dimension? 
+    
+
+83: What would be another example of a “system” in the real world that could serve as a metaphor for micro and macroeconomics?
+
+
+84: The chapter defines private enterprise as a characteristic of market-oriented economies. What would public enterprise be? Hint: It is a characteristic of command economies. 
+    
+
+85: Suppose we extend the circular flow model to add imports and exports. Copy the circular flow diagram onto a sheet of paper and then add a foreign country as a third agent. Draw a rough sketch of the flows of imports, exports, and the payments for each on your diagram. 
+    
+
+86: A consultant works for $200 per hour. She likes to eat vegetables, but is not very good at growing them. Why does it make more economic sense for her to spend her time at the consulting job and shop for her vegetables? 
+
+87: What is scarcity? Can you think of two causes of scarcity? 
+
+88: A price ceiling will have the largest effect:
+
+substantially below the equilibrium price 
+slightly below the equilibrium price 
+substantially above the equilibrium price 
+slightly above the equilibrium price 
+
+Sketch all four of these possibilities on a demand and supply diagram to illustrate your answer.
+
+
+89: Identify the most accurate statement. A price floor will have the largest effect if it is set:
+
+substantially above the equilibrium price
+slightly above the equilibrium price
+slightly below the equilibrium price
+substantially below the equilibrium price
+
+Sketch all four of these possibilities on a demand and supply diagram to illustrate your answer.
+
+
+90: Select the correct answer. A price ceiling will usually shift:
+
+demand
+supply
+both
+neither
+
+
+
+91: Residents of the town of Smithfield like to consume hams, but each ham requires 10 people to produce it and takes a month. If the town has a total of 100 people, what is the maximum amount of ham the residents can consume in a month? 
+
+92: Which of the following changes in the financial market will lead to an increase in the quantity of loans made and received:
+
+a rise in demand
+a fall in demand
+a rise in supply
+a fall in supply
+
+
+
+93: Select the correct answer. A price floor will usually shift:
+
+demand
+supply
+both
+neither
+
+Illustrate your answer with a diagram.
+
+
+94: If a usury law limits interest rates to no more than 35%, what would the likely impact be on the amount of loans made and interest rates paid?
+
+
+95: Which of the following changes in the financial market will lead to a decline in interest rates:
+
+a rise in demand
+a fall in demand
+a rise in supply
+a fall in supply
+
+
+
+96: Why is a living wage considered a price floor? Does imposing a living wage have the same outcome as a minimum wage?
+
+
+97: In the financial market, what causes a movement along the supply curve? What causes a shift in the supply curve?
+
+
+98: In the financial market, what causes a movement along the demand curve? What causes a shift in the demand curve?
+
+
+99: In the labor market, what causes a movement along the supply curve? What causes a shift in the supply curve?
+
+
+100: In the labor market, what causes a movement along the demand curve? What causes a shift in the demand curve?
+
+
+101: How would a balanced budget amendment affect a decision by Congress to grant a tax cut during a recession?
+
+
+102: What would happen if contractionary fiscal policy were implemented during an economic boom but, due to lag, it did not take effect until the economy slipped into recession?
+  
+
+103: How would a balanced budget amendment change the effect of automatic stabilizer programs?
+
+
+104: Do you think the typical time lag for fiscal policy is likely to be longer or shorter than the time lag for monetary policy? Explain your answer?
+  
+
+105: What would happen if expansionary fiscal policy was implemented in a recession but, due to lag, did not actually take effect until after the economy was back to potential GDP?
+  
+
+106: What is the main reason for employing expansionary fiscal policy during a recession?
+  
+
+107: In a recession, does the actual budget surplus or deficit fall above or below the standardized employment budget?
+  
+
+108: Explain how automatic stabilizers work, both on the taxation side and on the spending side, first in a situation where the economy is producing less than potential GDP and then in a situation where the economy is producing more than potential GDP.
+  
+
+109: What is the main advantage of automatic stabilizers over discretionary fiscal policy?
+  
+
+110: What is the main reason for employing contractionary fiscal policy in a time of strong economic growth?
+      
+
+111: Would it make sense to argue that rational expectations economics is an extreme version of neoclassical economics? Explain.
+    
+
+112: Summarize the Keynesian and Neoclassical models.
+  
+
+113: Do rational expectations tend to look back at past experience while adaptive expectations look ahead to the future? Explain your answer.
+  
+
+114: How would a decrease in energy prices affect the Phillips curve?
+  
+
+115: List three practical problems with the Keynesian perspective.
+  
+
+116: Suppose the U.S. Congress cuts federal government spending in order to balance the Federal budget. Use the AD/AS model to analyze the likely impact on output and employment. Hint: revisit Figure 12.6.
+
+117: Legislation proposes that the government should use macroeconomic policy to achieve an unemployment rate of zero percent, by increasing aggregate demand for as much and as long as necessary to accomplish this goal. From a neoclassical perspective, how will this policy affect output and the price level in the short run and in the long run? Sketch an aggregate demand/aggregate supply diagram to illustrate your answer. Hint: revisit Figure 13.4.
+
+118: In a Keynesian framework, using an AD/AS diagram, which of the following government policy choices offer a possible solution to recession? Which offer a possible solution to inflation?
+  
+  A tax increase on consumer income.
+  A surge in military spending.
+  A reduction in taxes for businesses that increase investment.
+  A major increase in what the U.S. government spends on healthcare.
+  
+  
+
+119: Use the AD/AS model to explain how an inflationary gap occurs, beginning from the initial equilibrium in Figure 12.6.
+
+120: Does Keynesian economics require government to set controls on prices, wages, or interest rates?
+  
+
+121: In the Keynesian framework, which of the following events might cause a recession? Which might cause inflation? Sketch AD/AS diagrams to illustrate your answers.
+  
+  A large increase in the price of the homes people own.
+  Rapid growth in the economy of a major trading partner.
+  The development of a major new technology offers profitable opportunities for business.
+  The interest rate rises.
+  The good imported from a major trading partner become much less expensive.
+  
+  
+
+122: Suppose, after five years of sluggish growth, the European Union's economy picks up speed. What would be the likely impact on the U.S. trade balance, GDP, and employment?
+
+123: If the economy is operating in the Keynesian zone of the SRAS curve and aggregate demand falls, what is likely to happen to real GDP?
+
+
+124: Suppose the Federal Reserve begins to increase the supply of money at an increasing rate. What impact would that have on GDP, unemployment, and inflation?
+
+
+125: If the economy is operating in the neoclassical zone of the SRAS curve and aggregate demand falls, what is likely to happen to real GDP?
+
+
+126: Many financial analysts and economists eagerly await the press releases for the reports on the home price index and consumer confidence index. What would be the effects of a negative report on both of these? What about a positive report?
+
+
+127: Suppose Mexico, one of our largest trading partners and purchaser of a large quantity of our exports, goes into a recession. Use the AD/AS model to determine the likely impact on our equilibrium GDP and price level. 
+
+128: What impact would a decrease in the size of the labor force have on GDP and the price level according to the AD/AS model?
+
+129: A policymaker claims that tax cuts led the economy out of a recession. Can we use the AD/AS diagram to show this?
+
+130: In the AD/AS model, what prevents the economy from achieving equilibrium at potential output?
+
+131: How would a dramatic increase in the value of the stock market shift the AD curve? What effect would the shift have on the equilibrium level of GDP and the price level?
+
+132: Suppose the U.S. Congress passes significant immigration reform that makes it more difficult for foreigners to come to the United States to work. Use the AD/AS model to explain how this would affect the equilibrium level of GDP and the price level.
+
+133: Suppose concerns about the size of the federal budget deficit lead the U.S. Congress to cut all funding for research and development for ten years. Assuming this has an impact on technology growth, what does the AD/AS model predict would be the likely effect on equilibrium GDP and the price level?
+
+134: Describe the mechanism by which supply creates its own demand.
+
+
+135: Why does contractionary monetary policy cause interest rates to rise?
+      
+
+136: What would be the effect of increasing the banks' reserve requirements on the money supply?
+
+137: Why does expansionary monetary policy causes interest rates to drop?
+      
+
+138: Why might banks want to hold excess reserves in time of recession?
+      
+
+139: Why might the velocity of money change unexpectedly?
+      
+
+140: Describe the mechanism by which demand creates its own supply.
+
+
+141: The short run aggregate supply curve was constructed assuming that as the price of outputs increases, the price of inputs stays the same. How would an increase in the prices of important inputs, like energy, affect aggregate supply?
+
+142: Bank runs are often described as “self-fulfilling prophecies.” Why is this phrase appropriate to bank runs?
+      
+
+143: If you are out shopping for clothes and books, what is easiest and most convenient for you to spend: M1 or M2? Explain your answer.
+  
+
+144: If the central bank sells $500 in bonds to a bank that has issued $10,000 in loans and is exactly meeting the reserve requirement of 10%, what will happen to the amount of loans and to the money supply in general?
+      
+
+145: Given the danger of bank runs, why do banks not keep the majority of deposits on hand to meet the demands of depositors?
+      
+
+146: For the following list of items, indicate if they are in M1, M2, or neither:
+  
+  Your $5,000 line of credit on your Bank of America card
+  $50 dollars’ worth of traveler’s checks you have not used yet
+  $1 in quarters in your pocket
+  $1200 in your checking account
+  $2000 you have in a money market account
+  
+  
+
+147: Explain why the money listed under assets on a bank balance sheet may not actually be in the bank?
+  
+
+148: Why is it important for the members of the Board of Governors of the Federal Reserve to have longer terms in office than elected officials, like the President?
+      
+
+149: Imagine that you are in the position of buying loans in the secondary market (that is, buying the right to collect the payments on loans) for a bank or other financial services company. Explain why you would be willing to pay more or less for a given loan if:The borrower has been late on a number of loan payments
+  Interest rates in the economy as a whole have risen since the bank made the loan
+  The borrower is a firm that has just declared a high level of profits
+  Interest rates in the economy as a whole have fallen since the bank made the loan
+  
+
+150: True or False:
+  
+  Federal spending has grown substantially in recent decades.
+  By world standards, the U.S. government controls a relatively large share of the U.S. economy.
+  A majority of the federal government’s revenue is collected through personal income taxes.
+  Education spending is slightly larger at the federal level than at the state and local level.
+  State and local government spending has not risen much in recent decades.
+  Defense spending is higher now than ever.
+  The share of the economy going to federal taxes has increased substantially over time.
+  Foreign aid is a large portion, although less than half, of federal spending.
+  Federal deficits have been very large for the last two decades.
+  The accumulated federal debt as a share of GDP is near an all-time high.
+  
+  
+
+151: In many casinos, a person buys chips to use for gambling. Within the casino's walls, customers often can use these chips to buy food and drink or even a hotel room. Do chips in a gambling casino serve all three functions of money?
+
+152: Can you name some item that is a store of value, but does not serve the other functions of money?
+
+
+153: Debt has a certain self-reinforcing quality to it. There is one category of government spending that automatically increases along with the federal debt. What is it?
+  
+
+154: The social security tax is 6.2% on employees’ income earned below $113,000.  Is this tax progressive, regressive or proportional?
+
+155: A booming economy can attract financial capital inflows, which promote further growth. However, capital can just as easily flow out of the country, leading to economic recession. Is a country whose economy is booming because it decided to stimulate consumer spending more or less likely to experience capital flight than an economy whose boom is caused by economic investment expenditure?
+
+156: A central bank can allow its currency to fall indefinitely, but it cannot allow its currency to rise indefinitely. Why not?
+  
+
+157: Suppose Argentina gets inflation under control and the Argentine inflation rate decreases substantially. What would likely happen to the demand for Argentine pesos, the supply of Argentine pesos, and the peso/U.S. dollar exchange rate?
+
+
+158: How would a contractionary monetary policy affect the exchange rate, net exports, aggregate demand, and aggregate supply?
+  
+
+159: Is a country for which imports and exports comprise a large fraction of the GDP more likely to adopt a flexible exchange rate or a fixed (hard peg) exchange rate?
+
+160: This chapter has explained that “one of the most economically destructive effects of exchange rate fluctuations can happen through the banking system,” if banks borrow from abroad to lend domestically. Why is this less likely to be a problem for the U.S. banking system?
+  
+
+161: Is it possible for a nation to run budget deficits and still have its debt/GDP ratio fall? Explain your answer. Is it possible for a nation to run budget surpluses and still have its debt/GDP ratio rise? Explain your answer.
+  
+
+162: Suppose that political unrest in Egypt leads financial markets to anticipate a depreciation in the Egyptian pound. How will that affect the demand for pounds, supply of pounds, and exchange rate for pounds compared to, say, U.S. dollars?
+
+
+163: Suppose that gifts were taxed at a rate of 10% for amounts up to $100,000 and 20% for anything over that amount. Would this tax be regressive or progressive?
+  
+
+164: What taxes would an individual pay if he were self-employed and the business is not incorporated?
+  
+
+165: How will a stronger euro affect the following economic agents?
+  
+  A British exporter to Germany.
+  A Dutch tourist visiting Chile.
+  A Greek bank investing in a Canadian government bond.
+  A French exporter to Germany.
+  
+  
+
+166: If an individual owns a corporation for which he is the only employee, which different types of federal tax will he have to pay?
+  
+
+167: When governments run budget surpluses, what is done with the extra funds?
+  
+
+168: Suppose U.S. interest rates decline compared to the rest of the world. What would be the likely impact on the demand for dollars, supply of dollars, and exchange rate for dollars compared to, say, euros?
+
+
+169: When governments run budget deficits, how do they make up the differences between tax revenue and spending?
+  
+
+170: Is the increase in labor force participation rates among women better thought of as causing an increase in cyclical unemployment or an increase in the natural rate of unemployment? Why?
+      
+
+171: Beginning in the 1970s and continuing for three decades, women entered the U.S. labor force in a big way. If we assume that wages are sticky in a downward direction, but that around 1970 the demand for labor equaled the supply of labor at the current wage rate, what do you imagine happened to the wage rate, employment, and unemployment as a result of increased labor force participation?
+      
+
+172: Suppose the adult population over the age of 16 is 237.8 million and the labor force is 153.9 million (of whom 139.1 million are employed). How many people are “not in the labor force?” What are the proportions of employed, unemployed and not in the labor force in the population? Hint: Proportions are percentages.
+
+173: Whose unemployment rates are commonly higher in the U.S. economy:
+        
+           White or non-White people?
+           The young or the middle-aged?
+           College graduates or high school graduates?
+        
+      
+
+174: Over the long term, has the U.S. unemployment rate generally trended up, trended down, or remained at basically the same level?
+        
+      
+
+175: Using the above data, what is the unemployment rate? These data are U.S. statistics from 2010. How does it compare to the February 2015 unemployment rate computed earlier?
+
+176: A fixed-rate mortgage has the same interest rate over the life of the loan, whether the mortgage is for 15 or 30 years. By contrast, an adjustable-rate mortgage changes with market interest rates over the life of the mortgage. If inflation falls unexpectedly by 3%, what would likely happen to a homeowner with an adjustable-rate mortgage?
+
+
+177: Many college students graduate from college before they have found a job. When graduates begin to look for a job, they are counted as what category of unemployed?
+      
+
+178: Edna is living in a retirement home where most of her needs are taken care of, but she has some discretionary spending. Based on the basket of goods in Table 9.5, by what percentage does Edna’s cost of living increase between time 1 and time 2?
+
+  
+
+Items
+Quantity
+(Time 1) Price
+(Time 2) Price
+
+
+  
+
+Gifts for grandchildren
+12
+$50
+$60
+
+
+
+Pizza delivery
+24
+$15
+$16
+
+
+
+Blouses
+6
+$60
+$50
+
+
+
+Vacation trips
+2
+$400
+$420
+
+
+
+  Table 
+  9.5
+   
+   
+
+
+
+
+179: Construct the price index for a “fruit basket” in each year using 2003 as the base year.
+
+
+180: How should an increase in inflation affect the interest rate on an adjustable-rate mortgage?
+
+
+181: Compute the inflation rate for fruit prices from 2001 to 2004.
+
+
+182: The Consumer Price Index is subject to the substitution bias and the quality/new goods bias. Are the Producer Price Index and the GDP Deflator also subject to these biases? Why or why not?
+
+
+183: How to Measure Changes in the Cost of Living introduced a number of different price indices. Which price index would be best to use to adjust your paycheck for inflation?
+
+184: Go to this website for the Purchasing Power Calculator at MeasuringWorth.com. How much money would it take today to purchase what one dollar would have bought in the year of your birth?
+
+
+185: If inflation rises unexpectedly by 5%, would a state government that had recently borrowed money to pay for a new highway benefit or lose?
+
+
+186: From the data in Table 5.6 about supply of alarm clocks, calculate the price elasticity of supply from: point J to point K, point L to point M, and point N to point P. Classify the elasticity at each point as elastic, inelastic, or unit elastic.
+  
+  
+    Point
+    Price
+    Quantity Supplied
+  
+  
+  
+  
+  
+          J 
+           $8
+          50 
+   
+  
+  
+           K
+          $9 
+          70 
+   
+  
+  
+          L 
+          $10 
+          80 
+   
+  
+  
+           M
+          $11 
+          88 
+   
+  
+  
+           N
+          $12 
+          95 
+   
+  
+  
+          P 
+           $13
+           100
+   
+  
+
+  Table 
+  5.6
+   
+   
+
+
+  
+
+187: Suppose you are in charge of sales at a pharmaceutical company, and your firm has a new drug that causes bald men to grow hair. Assume that the company wants to earn as much revenue as possible from this drug. If the elasticity of demand for your company’s product at the current price is 1.4, would you advise the company to raise the price, lower the price, or to keep the price the same? What if the elasticity were 0.6? What if it were 1? Explain your answer.
+  
+
+188: Why is the demand curve with constant unitary elasticity concave?
+  
+
+189: The federal government decides to require that automobile manufacturers install new anti-pollution equipment that costs $2,000 per car. Under what conditions can carmakers pass almost all of this cost along to car buyers? Under what conditions can carmakers pass very little of this cost along to car buyers?
+  
+
+190: Why is the supply curve with constant unitary elasticity a straight line? 
+  
+
+191: What would the gasoline price elasticity of supply mean to UPS or FedEx?
+  
+
+192: Suppose the cross-price elasticity of apples with respect to the price of oranges is 0.4, and the price of oranges falls by 3%. What will happen to the demand for apples? 
+  
+
+193: Explain briefly whether each of the following would cause GDP to overstate or understate the degree of change in the broad standard of living.
+        
+          The environment becomes dirtier
+          The crime rate declines
+          A greater variety of goods become available to consumers
+          Infant mortality declines
+        
+      
+
+194: The average annual income rises from $25,000 to $38,000, and the quantity of bread consumed in a year by the average person falls from 30 loaves to 22 loaves. What is the income elasticity of bread consumption? Is bread a normal or an inferior good?
+  
+
+195: From the data in Table 5.5 about demand for smart phones, calculate the price elasticity of demand from: point B to point C, point D to point E, and point G to point H. Classify the elasticity at each point as elastic, inelastic, or unit elastic.
+  
+  
+  
+  
+    Points
+    P
+    Q
+  
+  
+  
+          
+            A
+            60
+            3,000
+          
+  
+          
+            B
+            70
+            2,800
+          
+  
+          
+            C
+            80
+            2,600 
+          
+  
+          
+            D
+            90
+             2,400
+          
+  
+          
+            E 
+            100
+            2,200
+          
+  
+          
+            F 
+            110
+            2,000 
+          
+  
+          
+            G 
+            120
+            1,800
+          
+  
+          
+            H 
+            130
+  1,600
+          
+        
+
+  Table 
+  5.5
+   
+   
+
+
+  
+  
+  
+  
+  
+  
+
+196: According to Table 6.7, how long has the average recession lasted since the end of World War II?
+      
+
+197: Which of the following are included in GDP, and which are not?
+        The cost of hospital stays
+          The rise in life expectancy over time
+          Child care provided by a licensed day care center
+          Child care provided by a grandmother
+          A used car sale
+          A new car sale
+          The greater variety of cheese available in supermarkets
+          The iron that goes into the steel that goes into a refrigerator bought by a consumer.
+        
+      
+
+198: The Central African Republic has a GDP of 1,107,689 million CFA francs and a population of 4.862 million. The exchange rate is 284.681CFA francs per dollar. Calculate the GDP per capita of Central African Republic.
+      
+
+199: Is it possible for GDP to rise while at the same time per capita GDP is falling? Is it possible for GDP to fall while per capita GDP is rising?
+      
+
+200: According to Table 6.7, how long has the average expansion lasted since the end of World War II?
+      
+
+201: According to Table 6.7, how often have recessions occurred since the end of World War II (1945)?
+      
+
+202: Using data from Table 6.5 how much of the nominal GDP growth from 1980 to 1990 was real GDP and how much was inflation?
+      
+
+203: Without looking at Table 6.7, return to Figure 6.10. If we define a recession as a significant decline in national output, can you identify any post-1960 recessions in addition to the 2008-2009 recession? (This requires a judgment call.)
+
+204: Would you expect capital deepening to result in diminished returns? Why or why not? Would you expect improvements in technology to result in diminished returns? Why or why not? 
+      
+
+205: Would the following events usually lead to capital deepening? Why or why not?
+        
+          A weak economy in which businesses become reluctant to make long-term investments in physical capital.
+          A rise in international trade.
+          A trend in which many more adults participate in continuing education courses through their employers and at colleges and universities.
+        
+      
+
+206: Use an example to explain why, after periods of rapid growth, a low-income country that has not caught up to a high-income country may feel poor.
+      
+
+207: What are the “advantages of backwardness” for economic growth?
+      
+
+208: Why does productivity growth in high-income economies not slow down as it runs into diminishing returns from additional investments in physical capital and human capital? Does this show one area where the theory of diminishing returns fails to apply? Why or why not?
+      
+
+209: List the areas where government policy can help economic growth.
+      
+
+210: Country A has export sales of $20 billion, government purchases of $1,000 billion, business investment is $50 billion, imports are $40 billion, and consumption spending is $2,000 billion. What is the dollar value of GDP?
+      
+
+211: Are there other ways in which we can measure productivity besides the amount produced per hour of work?
+      
+
+212: What policies can the government of a free-market economy implement to stimulate economic growth?
+      
+
+213: Assume there are two countries: South Korea and the United States. South Korea grows at 4% and the United States grows at 1%. For the sake of simplicity, assume they both start from the same fictional income level, $10,000. What will the incomes of the United States and South Korea be in 20 years? By how many multiples will each country’s income grow in 20 years?
+      
+
+214: Explain the difference between property rights and contractual rights. Why do they matter to economic growth?
+      
+
+215: Explain briefly whether each of the following would be more likely to lead to a higher level of trade for an economy, or a greater imbalance of trade for an economy.
+
+Living in an especially large country
+Having a domestic investment rate much higher than the domestic savings rate
+Having many other large economies geographically nearby
+Having an especially large budget deficit
+Having countries with a tradition of strong protectionist legislation shutting out imports
+
+
+
+216: What do the growth accounting studies conclude are the determinants of growth? Which is more important, the determinants or how they are combined?
+      
+
+217: The United States exports 14% of GDP while Germany exports about 50% of its GDP. Explain what that means.
+
+
+218: Table 9.4 shows the fruit prices that the typical college student purchased from 2001 to 2004. What is the amount spent each year on the “basket” of fruit with the quantities shown in column 2?
+
+
+  
+
+Items
+Qty
+(2001) Price
+(2001) Amount Spent
+(2002) Price
+(2002) Amount Spent
+(2003) Price
+(2003) Amount Spent
+(2004) Price
+(2004) Amount Spent 
+
+
+  
+
+Apples
+10
+$0.50
+
+$0.75
+
+$0.85
+
+$0.88
+
+
+
+
+Bananas
+12
+$0.20
+
+$0.25
+
+$0.25
+
+$0.29
+
+
+
+Grapes
+2
+$0.65
+
+$0.70
+
+$0.90
+
+$0.95
+
+
+
+Raspberries
+1
+$2.00
+
+$1.90
+
+$2.05
+
+$2.13
+$2.13
+
+
+Total
+
+
+
+
+
+
+
+
+
+
+
+
+  Table 
+  9.4
+   
+   
+
+
+
+219: Explain what the Industrial Revolution was and where it began.
+      
+
+220: For each of the following, indicate which type of government spending would justify a budget deficit and which would not.
+
+Increased federal spending on Medicare
+Increased spending on education
+Increased spending on the space program
+Increased spending on airports and air traffic control
+
+    
+
+221: Describe a scenario in which a trade surplus benefits an economy and one in which a trade surplus is occurring in an economy that performs poorly. What key factor or factors are making the difference in the outcome that results from a trade surplus?
+
+
+
+222: If domestic investment increases, and there is no change in the amount of private and public saving, what must happen to the size of the trade deficit?
+    
+
+223: Both the United States and global economies are booming. Will U.S. imports and/or exports increase?
+    
+
+224: What determines the size of a country’s trade deficit?
+    
+
+225: If a country is running a government budget surplus, why is (T – G) on the left side of the saving-investment identity?
+    
+
+226: How did large trade deficits hurt the East Asian countries in the mid 1980s? (Recall that trade deficits are equivalent to inflows of financial capital from abroad.)
+
+227: Why does a recession cause a trade deficit to increase?
+
+
+228: Explain the relationship between a current account deficit or surplus and the flow of funds.
+
+
+229: How does the bottom portion of Figure 10.3, showing the international flow of investments and capital, differ from the upper portion?
+
+
+230: Using the national savings and investment identity, explain how each of the following changes (ceteris paribus) will increase or decrease the trade balance:
+
+A lower domestic savings rate
+The government changes from running a budget surplus to running a budget deficit
+The rate of domestic investment surges
+
+
+231: At one point Canada’s GDP was $1,800 billion and its exports were $542 billion. What was Canada’s export ratio at this time?
+
+232: The GDP for the United States is $18,036 billion and its current account balance is –$484 billion. What percent of GDP is the current account balance?
+
+233: In what way does comparing a country’s exports to GDP reflect its degree of globalization?
+
+234: State whether each of the following events involves a financial flow to the U.S. economy or away from the U.S. economy:
+Export sales to Germany
+Returns paid on past U.S. financial investments in Brazil
+Foreign aid from the U.S. government to Egypt
+Imported oil from the Russian Federation
+Japanese investors buying U.S. real estate
+
+
+235: State whether each of the following events involves a financial flow to the Mexican economy or a financial flow out of the Mexican economy:
+
+Mexico imports services from Japan
+Mexico exports goods to Canada
+U.S. investors receive a return from past financial investments in Mexico
+
+
+
+236: If the trade deficit of the United States increases, how is the current account balance affected?
+
+
+237: Why does the trade balance and the current account balance track so closely together over time?
+
+
+238: If foreign investors buy more U.S. stocks and bonds, how would that show up in the current account balance?
+
+
+239: If a usury law limits interest rates to no more than 35%, what would the likely impact be on the amount of loans made and interest rates paid?
+
+
+240: Identify the most accurate statement. A price floor will have the largest effect if it is set:
+
+substantially above the equilibrium price
+slightly above the equilibrium price
+slightly below the equilibrium price
+substantially below the equilibrium price
+
+Sketch all four of these possibilities on a demand and supply diagram to illustrate your answer.
+
+
+241: Select the correct answer. A price ceiling will usually shift:
+
+demand
+supply
+both
+neither
+
+
+
+242: Select the correct answer. A price floor will usually shift:
+
+demand
+supply
+both
+neither
+
+Illustrate your answer with a diagram.
+
+
+243: A price ceiling will have the largest effect:
+
+substantially below the equilibrium price 
+slightly below the equilibrium price 
+substantially above the equilibrium price 
+slightly above the equilibrium price 
+
+Sketch all four of these possibilities on a demand and supply diagram to illustrate your answer.
+
+
+244: Which of the following changes in the financial market will lead to an increase in the quantity of loans made and received:
+
+a rise in demand
+a fall in demand
+a rise in supply
+a fall in supply
+
+
+
+245: In the financial market, what causes a movement along the supply curve? What causes a shift in the supply curve?
+
+
+246: Which of the following changes in the financial market will lead to a decline in interest rates:
+
+a rise in demand
+a fall in demand
+a rise in supply
+a fall in supply
+
+
+
+247: Why is a living wage considered a price floor? Does imposing a living wage have the same outcome as a minimum wage?
+
+
+248: In the labor market, what causes a movement along the demand curve? What causes a shift in the demand curve?
+
+
+249: In the labor market, what causes a movement along the supply curve? What causes a shift in the supply curve?
+
+
+250: Does a price ceiling change the equilibrium price?
+    
+
+251: If a price floor benefits producers, why does a price floor reduce social surplus?
+    
+
+252: What would be the impact of imposing a price floor below the equilibrium price?
+    
+
+253: In the financial market, what causes a movement along the demand curve? What causes a shift in the demand curve?
+
+
+254: Does a price ceiling increase or decrease the number of transactions in a market? Why? What about a price floor?
+    
+
+255: A tariff is a tax on imported goods. Suppose the U.S. government cuts the tariff on imported flat screen televisions. Using the four-step analysis, how do you think the tariff reduction will affect the equilibrium price and quantity of flat screen TVs?
+    
+
+256: Many changes are affecting the market for oil. Predict how each of the following events will affect the equilibrium price and quantity in the market for oil. In each case, state how the event will affect the supply and demand diagram. Create a sketch of the diagram if necessary.
+
+Cars are becoming more fuel efficient, and therefore get more miles to the gallon.
+The winter is exceptionally cold.
+A major discovery of new oil is made off the coast of Norway.
+The economies of some major oil-using nations, like Japan, slow down.
+A war in the Middle East disrupts oil-pumping schedules.
+Landlords install additional insulation in buildings.
+The price of solar energy falls dramatically.
+Chemical companies invent a new, popular kind of plastic made from oil.
+
+
+
+257: Let’s think about the market for air travel. From August 2014 to January 2015, the price of jet fuel increased roughly 47%. Using the four-step analysis, how do you think this fuel price increase affected the equilibrium price and quantity of air travel?
+
+258: What is the effect of a price ceiling on the quantity demanded of the product? What is the effect of a price ceiling on the quantity supplied? Why exactly does a price ceiling cause a shortage?
+    
+
+259: A computer systems engineer could paint her house, but it makes more sense for her to hire a painter to do it. Explain why. 
+
+260: Why might Belgium, France, Italy, and Sweden have a higher export to GDP ratio than the United States? 
+    
+
+261: The chapter defines private enterprise as a characteristic of market-oriented economies. What would public enterprise be? Hint: It is a characteristic of command economies. 
+    
+
+262: Suppose we extend the circular flow model to add imports and exports. Copy the circular flow diagram onto a sheet of paper and then add a foreign country as a third agent. Draw a rough sketch of the flows of imports, exports, and the payments for each on your diagram. 
+    
+
+263: What is an example of a problem in the world today, not mentioned in the chapter, that has an economic dimension? 
+    
+
+264: Residents of the town of Smithfield like to consume hams, but each ham requires 10 people to produce it and takes a month. If the town has a total of 100 people, what is the maximum amount of ham the residents can consume in a month? 
+
+265: What would be another example of a “system” in the real world that could serve as a metaphor for micro and macroeconomics?
+
+
+266: A consultant works for $200 per hour. She likes to eat vegetables, but is not very good at growing them. Why does it make more economic sense for her to spend her time at the consulting job and shop for her vegetables? 
+
+267: What is scarcity? Can you think of two causes of scarcity? 
+
+268: Would a research study on the effects of soft drink consumption on children’s cognitive development be a positive or normative statement?
+
+269: Suppose Alphonso’s town raised the price of bus tickets from $0.50 per trip to $1 per trip (while the price of burgers stayed at $2 and his budget remained $10 per week.) Draw Alphonso’s new budget constraint. What happens to the opportunity cost of bus tickets?
+
+270: Could a nation be producing in a way that is allocatively efficient, but productively inefficient?
+
+
+271: Return to the example in Figure 2.4. Suppose there is an improvement in medical technology that enables more healthcare with the same amount of resources. How would this affect the production possibilities curve and, in particular, how would it affect the opportunity cost of education?
+
+272: Would an op-ed piece in a newspaper urging the adoption of a particular economic policy be a positive or normative statement?
+
+273: In an analysis of the market for paint, an economist discovers the facts listed below. State whether each of these changes will affect supply or demand, and in what direction.
+
+There have recently been some important cost-saving inventions in the technology for making paint.
+Paint is lasting longer, so that property owners need not repaint as often.
+Because of severe hailstorms, many people need to repaint now.
+
+The hailstorms damaged several factories that make paint, forcing them to close down for several months.
+
+
+274: What are the similarities between a consumer’s budget constraint and society’s production possibilities frontier, not just graphically but analytically?
+
+
+275: Individuals may not act in the rational, calculating way described by the economic model of decision making, measuring utility and costs at the margin, but can you make a case that they behave approximately that way?
+
+
+276: Why do economists use the ceteris paribus assumption?
+
+
+277: Review Figure 3.4. Suppose the price of gasoline is $1.60 per gallon. Is the quantity demanded higher or lower than at the equilibrium price of $1.40 per gallon? What about the quantity supplied? Is there a shortage or a surplus in the market? If so, how much?
+
+278: What are the gains from competition?
+
+
+279: What might account for the dramatic increase in international trade over the past 50 years?
+
+
+280: How does competition, whether domestic or foreign, harm businesses?
+
+
+281: Why would countries promote protectionist laws, while also negotiate for freer trade internationally?
+
+
+282: Assume a perfectly competitive market and the exporting country is small. Using a demand and supply diagram, show the impact of increasing standards on a low-income exporter of toys. Show the tariff's impact. Is the effect on toy prices the same or different? Why is a standards policy preferred to tariffs?
+
+283: Why is the national security argument not convincing?
+
+
+284: What is the difference between a free trade association, a common market, and an economic union?
+
+
+285: If the removal of trade barriers is so beneficial to international economic growth, why would a nation continue to restrict trade on some imported or exported products?
+  
+
+286: A central bank can allow its currency to fall indefinitely, but it cannot allow its currency to rise indefinitely. Why not?
+  
+
+287: Suppose that political unrest in Egypt leads financial markets to anticipate a depreciation in the Egyptian pound. How will that affect the demand for pounds, supply of pounds, and exchange rate for pounds compared to, say, U.S. dollars?
+
+
+288: Is a country for which imports and exports comprise a large fraction of the GDP more likely to adopt a flexible exchange rate or a fixed (hard peg) exchange rate?
+
+289: This chapter has explained that “one of the most economically destructive effects of exchange rate fluctuations can happen through the banking system,” if banks borrow from abroad to lend domestically. Why is this less likely to be a problem for the U.S. banking system?
+  
+
+290: A booming economy can attract financial capital inflows, which promote further growth. However, capital can just as easily flow out of the country, leading to economic recession. Is a country whose economy is booming because it decided to stimulate consumer spending more or less likely to experience capital flight than an economy whose boom is caused by economic investment expenditure?
+
+291: How would a contractionary monetary policy affect the exchange rate, net exports, aggregate demand, and aggregate supply?
+  
+
+292: Suppose U.S. interest rates decline compared to the rest of the world. What would be the likely impact on the demand for dollars, supply of dollars, and exchange rate for dollars compared to, say, euros?
+
+
+293: How will a stronger euro affect the following economic agents?
+  
+  A British exporter to Germany.
+  A Dutch tourist visiting Chile.
+  A Greek bank investing in a Canadian government bond.
+  A French exporter to Germany.
+  
+  
+
+294: Why might banks want to hold excess reserves in time of recession?
+      
+
+295: If the central bank sells $500 in bonds to a bank that has issued $10,000 in loans and is exactly meeting the reserve requirement of 10%, what will happen to the amount of loans and to the money supply in general?
+      
+
+296: Why does contractionary monetary policy cause interest rates to rise?
+      
+
+297: What would be the effect of increasing the banks' reserve requirements on the money supply?
+
+298: Why does expansionary monetary policy causes interest rates to drop?
+      
+
+299: Why might the velocity of money change unexpectedly?
+      
+
+300: What would happen if expansionary fiscal policy was implemented in a recession but, due to lag, did not actually take effect until after the economy was back to potential GDP?
+  
+
+301: Do you think the typical time lag for fiscal policy is likely to be longer or shorter than the time lag for monetary policy? Explain your answer?
+  
+
+302: Bank runs are often described as “self-fulfilling prophecies.” Why is this phrase appropriate to bank runs?
+      
+
+303: How would a balanced budget amendment change the effect of automatic stabilizer programs?
+
+
+304: What would happen if contractionary fiscal policy were implemented during an economic boom but, due to lag, it did not take effect until the economy slipped into recession?
+  
+
+305: Given the danger of bank runs, why do banks not keep the majority of deposits on hand to meet the demands of depositors?
+      
+
+306: Why is it important for the members of the Board of Governors of the Federal Reserve to have longer terms in office than elected officials, like the President?
+      
+
+307: How would a balanced budget amendment affect a decision by Congress to grant a tax cut during a recession?
+
+
+308: Explain how automatic stabilizers work, both on the taxation side and on the spending side, first in a situation where the economy is producing less than potential GDP and then in a situation where the economy is producing more than potential GDP.
+  
+
+309: Suppose Argentina gets inflation under control and the Argentine inflation rate decreases substantially. What would likely happen to the demand for Argentine pesos, the supply of Argentine pesos, and the peso/U.S. dollar exchange rate?
+
+
+310: What do international flows of capital have to do with trade imbalances?
+  
+
+311: Show, using the AD/AS model, how governments can use monetary policy to decrease the price level.
+
+312: What is the main reason for employing expansionary fiscal policy during a recession?
+  
+
+313: Use the demand-and-supply of foreign currency graph to determine what would happen to a small, open economy that experienced capital outflows.
+  
+
+314: How does indexing wage contracts to inflation help workers?
+  
+
+315: In a recession, does the actual budget surplus or deficit fall above or below the standardized employment budget?
+  
+
+316: Use the AD/AS model to show how increases in government spending can lead to more inflation.
+
+317: What is the main advantage of automatic stabilizers over discretionary fiscal policy?
+  
+
+318: What taxes would an individual pay if he were self-employed and the business is not incorporated?
+  
+
+319: If an individual owns a corporation for which he is the only employee, which different types of federal tax will he have to pay?
+  
+
+320: What is the main reason for employing contractionary fiscal policy in a time of strong economic growth?
+      
+
+321: Is it possible for a nation to run budget deficits and still have its debt/GDP ratio fall? Explain your answer. Is it possible for a nation to run budget surpluses and still have its debt/GDP ratio rise? Explain your answer.
+  
+
+322: Suppose that gifts were taxed at a rate of 10% for amounts up to $100,000 and 20% for anything over that amount. Would this tax be regressive or progressive?
+  
+
+323: True or False:
+  
+  Federal spending has grown substantially in recent decades.
+  By world standards, the U.S. government controls a relatively large share of the U.S. economy.
+  A majority of the federal government’s revenue is collected through personal income taxes.
+  Education spending is slightly larger at the federal level than at the state and local level.
+  State and local government spending has not risen much in recent decades.
+  Defense spending is higher now than ever.
+  The share of the economy going to federal taxes has increased substantially over time.
+  Foreign aid is a large portion, although less than half, of federal spending.
+  Federal deficits have been very large for the last two decades.
+  The accumulated federal debt as a share of GDP is near an all-time high.
+  
+  
+
+324: The social security tax is 6.2% on employees’ income earned below $113,000.  Is this tax progressive, regressive or proportional?
+
+325: When governments run budget deficits, how do they make up the differences between tax revenue and spending?
+  
+
+326: Debt has a certain self-reinforcing quality to it. There is one category of government spending that automatically increases along with the federal debt. What is it?
+  
+
+327: Explain how the natural rate of unemployment may be higher in low-income countries.
+  
+
+328: What are the drawbacks to analyzing the global economy on a regional basis?
+  
+
+329: When governments run budget surpluses, what is done with the extra funds?
+  
+
+330: What are the different policy tools for dealing with cyclical unemployment?
+  
+
+331: Create a table that identifies the macroeconomic policies for a high-income country, a middle-income country, and a low-income country.
+  
+
+332: Using the data in Table 32.3, rank the seven regions of the world according to GDP and then according to GDP per capita.
+  
+  
+  
+  
+  Population (in millions)
+  GDP Per Capita
+  GDP = Population × Per Capita GDP (in millions)
+  
+  
+  
+  East Asia and Pacific
+  2,006
+  $5,536
+  $10,450,032
+  
+  
+  South Asia
+  1,671
+  $1,482
+  $2,288,812
+  
+  
+  Sub-Saharan Africa
+  936.1
+  $1,657
+  $1,287,650
+  
+  
+  Latin America and Caribbean
+  588
+  $9,536
+  $5,339,390
+  
+  
+  Middle East and North Africa
+  345.4
+  $3,456
+  $1,541,900
+  
+  
+  Europe and Central Asia
+  272.2
+  $7,118
+  $1,862,384
+  
+  
+
+  Table 
+  32.3
+   
+GDP and Population of Seven Regions of the World
+
+   
+
+
+  
+
+333: Use the data in the text to contrast the policy prescriptions of the high-income, middle-income, and low-income countries.
+  
+
+334: Table 33.15 shows how the average costs of production for semiconductors (the “chips” in computer memories) change as the quantity of semiconductors built at that factory increases.
+  
+  Based on these data, sketch a curve with quantity produced on the horizontal axis and average cost of production on the vertical axis. How does the curve illustrate economies of scale?
+  If the equilibrium quantity of semiconductors demanded is 90,000, can this economy take full advantage of economies of scale? What about if quantity demanded is 70,000 semiconductors? 50,000 semiconductors? 30,000 semiconductors?
+  Explain how international trade could make it possible for even a small economy to take full advantage of economies of scale, while also benefiting from competition and the variety offered by several producers.
+  
+  
+  
+  
+  
+  
+  Quantity of Semiconductors
+  Average Total Cost
+  
+  
+  
+  
+    10,000
+  $8 each
+  
+  
+  
+    20,000
+  $5 each
+  
+  
+  
+    30,000
+  $3 each
+  
+  
+  
+    40,000
+  $2 each
+  
+  
+  
+   100,000
+  $2 each
+  
+  
+
+  Table 
+  33.15
+   
+   
+
+
+  
+
+335: How can there be any economic gains for a country from both importing and exporting the same good, like cars?
+  
+
+336: Assume an economy has a budget surplus of 1,000, private savings of 4,000, and investment of 5,000. 
+  Write out a national saving and investment identity for this economy.
+  What will be the balance of trade in this economy?
+  If the budget surplus changes to a budget deficit of 1000, with private saving and investment unchanged, what is the new balance of trade in this economy?
+  
+  
+
+337: In a country, private savings equals 600, the government budget surplus equals 200, and the trade surplus equals 100. What is the level of private investment in this economy?
+  
+
+338: Imagine an economy in which Ricardian equivalence holds. This economy has a budget deficit of 50, a trade deficit of 20, private savings of 130, and investment of 100. If the budget deficit rises to 70, how are the other terms in the national saving and investment identity affected?
+  
+
+339: In the late 1990s, the U.S. government moved from a budget deficit to a budget surplus and the trade deficit in the U.S. economy grew substantially. Using the national saving and investment identity, what can you say about the direction in which saving and/or investment must have changed in this economy?
+  
+
+340: What are some steps the government can take to encourage research and development? 
+  
+
+341: Why have many education experts recently placed an emphasis on altering the incentives that U.S. schools face rather than on increasing their budgets? Without endorsing any of these proposals as especially good or bad, list some of the ways in which incentives for schools might be altered.
+
+342: Brazil can produce 100 pounds of beef or 10 autos. In contrast the United States can produce 40 pounds of beef or 30 autos. Which country has the absolute advantage in beef? Which country has the absolute advantage in producing autos? What is the opportunity cost of producing one pound of beef in Brazil? What is the opportunity cost of producing one pound of beef in the United States?
+
+343: Explain how predatory pricing could be a motivation for dumping.
+
+
+344: In France it takes one worker to produce one sweater, and one worker to produce one bottle of wine. In Tunisia it takes two workers to produce one sweater, and three workers to produce one bottle of wine. Who has the absolute advantage in production of sweaters? Who has the absolute advantage in the production of wine? How can you tell?
+
+
+345: In Germany it takes three workers to make one television and four workers to make one video camera. In Poland it takes six workers to make one television and 12 workers to make one video camera.
+
+Who has the absolute advantage in the production of televisions? Who has the absolute advantage in the production of video cameras? How can you tell?
+Calculate the opportunity cost of producing one additional television set in Germany and in Poland. (Your calculation may involve fractions, which is fine.) Which country has a comparative advantage in the production of televisions?
+Calculate the opportunity cost of producing one video camera in Germany and in Poland. Which country has a comparative advantage in the production of video cameras?
+In this example, is absolute advantage the same as comparative advantage, or not?
+In what product should Germany specialize? In what product should Poland specialize?
+
+
+
+346: Explain the logic behind the “race to the bottom” argument and the likely reason it has not occurred.
+
+
+347: Why do low-income countries like Brazil, Egypt, or Vietnam have lower environmental standards than high-income countries like the Germany, Japan, or the United States?
+
+
+348: How does the cost of “saving” jobs in protected industries compare to the workers’ wages and salaries?
+
+
+349: Do the jobs for workers in low-income countries that involve making products for export to high-income countries typically pay these workers more or less than their next-best alternative?
+
+
+350: How do trade barriers affect the average income level in an economy?
+
+
+351: True or False: The source of comparative advantage must be natural elements like climate and mineral deposits. Explain.
+
+
+352: What are the conditions under which a country may use the unsafe products argument to block imports?
+
+
+353: How does international trade affect working conditions of low-income countries?
+
+
+354: Explain how a subsidy on agricultural goods like sugar adversely affects the income of foreign producers of imported sugar.
+
+
+355: Explain how a tariff reduction causes an increase in the equilibrium quantity of imports and a decrease in the equilibrium price. Hint: Consider the Work It Out "Effects of Trade Barriers."
+
+356: Explain how trade barriers save jobs in protected industries, but only by costing jobs in other industries.
+
+
+357: Explain how trade barriers raise wages in protected industries by reducing average wages economy-wide.
+
+
+358: List the areas where government policy can help economic growth.
+      
+
+359: Table 19.15 shows how the average costs of production for semiconductors (the “chips” in computer memories) change as the quantity of semiconductors built at that factory increases.
+  
+  Based on these data, sketch a curve with quantity produced on the horizontal axis and average cost of production on the vertical axis. How does the curve illustrate economies of scale?
+  If the equilibrium quantity of semiconductors demanded is 90,000, can this economy take full advantage of economies of scale? What about if quantity demanded is 70,000 semiconductors? 50,000 semiconductors? 30,000 semiconductors?
+  Explain how international trade could make it possible for even a small economy to take full advantage of economies of scale, while also benefiting from competition and the variety offered by several producers.
+  
+  
+  
+  
+  
+  
+  Quantity of Semiconductors
+  Average Total Cost
+  
+  
+  
+  
+    10,000
+  $8 each
+  
+  
+  
+    20,000
+  $5 each
+  
+  
+  
+    30,000
+  $3 each
+  
+  
+  
+    40,000
+  $2 each
+  
+  
+  
+   100,000
+  $2 each
+  
+  
+
+  Table 
+  19.15
+   
+   
+
+
+  
+
+360: True or False: The source of comparative advantage must be natural elements like climate and mineral deposits. Explain.
+
+
+361: Brazil can produce 100 pounds of beef or 10 autos. In contrast the United States can produce 40 pounds of beef or 30 autos. Which country has the absolute advantage in beef? Which country has the absolute advantage in producing autos? What is the opportunity cost of producing one pound of beef in Brazil? What is the opportunity cost of producing one pound of beef in the United States?
+
+362: In Germany it takes three workers to make one television and four workers to make one video camera. In Poland it takes six workers to make one television and 12 workers to make one video camera.
+
+Who has the absolute advantage in the production of televisions? Who has the absolute advantage in the production of video cameras? How can you tell?
+Calculate the opportunity cost of producing one additional television set in Germany and in Poland. (Your calculation may involve fractions, which is fine.) Which country has a comparative advantage in the production of televisions?
+Calculate the opportunity cost of producing one video camera in Germany and in Poland. Which country has a comparative advantage in the production of video cameras?
+In this example, is absolute advantage the same as comparative advantage, or not?
+In what product should Germany specialize? In what product should Poland specialize?
+
+
+
+363: In France it takes one worker to produce one sweater, and one worker to produce one bottle of wine. In Tunisia it takes two workers to produce one sweater, and three workers to produce one bottle of wine. Who has the absolute advantage in production of sweaters? Who has the absolute advantage in the production of wine? How can you tell?
+
+
+364: How can there be any economic gains for a country from both importing and exporting the same good, like cars?
+  
+
+365: If the removal of trade barriers is so beneficial to international economic growth, why would a nation continue to restrict trade on some imported or exported products?
+  
+
+366: What policies can the government of a free-market economy implement to stimulate economic growth?
+      
+
+367: What do the growth accounting studies conclude are the determinants of growth? Which is more important, the determinants or how they are combined?
+      
+
+368: Explain what the Industrial Revolution was and where it began.
+      
+
+369: Is the increase in labor force participation rates among women better thought of as causing an increase in cyclical unemployment or an increase in the natural rate of unemployment? Why?
+      
+
+370: Assume there are two countries: South Korea and the United States. South Korea grows at 4% and the United States grows at 1%. For the sake of simplicity, assume they both start from the same fictional income level, $10,000. What will the incomes of the United States and South Korea be in 20 years? By how many multiples will each country’s income grow in 20 years?
+      
+
+371: Many college students graduate from college before they have found a job. When graduates begin to look for a job, they are counted as what category of unemployed?
+      
+
+372: Are there other ways in which we can measure productivity besides the amount produced per hour of work?
+      
+
+373: Explain the difference between property rights and contractual rights. Why do they matter to economic growth?
+      
+
+374: Why does productivity growth in high-income economies not slow down as it runs into diminishing returns from additional investments in physical capital and human capital? Does this show one area where the theory of diminishing returns fails to apply? Why or why not?
+      
+
+375: Would you expect capital deepening to result in diminished returns? Why or why not? Would you expect improvements in technology to result in diminished returns? Why or why not? 
+      
+
+376: How should an increase in inflation affect the interest rate on an adjustable-rate mortgage?
+
+
+377: What are the “advantages of backwardness” for economic growth?
+      
+
+378: Would the following events usually lead to capital deepening? Why or why not?
+        
+          A weak economy in which businesses become reluctant to make long-term investments in physical capital.
+          A rise in international trade.
+          A trend in which many more adults participate in continuing education courses through their employers and at colleges and universities.
+        
+      
+
+379: Beginning in the 1970s and continuing for three decades, women entered the U.S. labor force in a big way. If we assume that wages are sticky in a downward direction, but that around 1970 the demand for labor equaled the supply of labor at the current wage rate, what do you imagine happened to the wage rate, employment, and unemployment as a result of increased labor force participation?
+      
+
+380: A fixed-rate mortgage has the same interest rate over the life of the loan, whether the mortgage is for 15 or 30 years. By contrast, an adjustable-rate mortgage changes with market interest rates over the life of the mortgage. If inflation falls unexpectedly by 3%, what would likely happen to a homeowner with an adjustable-rate mortgage?
+
+
+381: Use an example to explain why, after periods of rapid growth, a low-income country that has not caught up to a high-income country may feel poor.
+      
+
+382: If inflation rises unexpectedly by 5%, would a state government that had recently borrowed money to pay for a new highway benefit or lose?
+
+
+383: Whose unemployment rates are commonly higher in the U.S. economy:
+        
+           White or non-White people?
+           The young or the middle-aged?
+           College graduates or high school graduates?
+        
+      
+
+384: The Consumer Price Index is subject to the substitution bias and the quality/new goods bias. Are the Producer Price Index and the GDP Deflator also subject to these biases? Why or why not?
+
+
+385: Compute the inflation rate for fruit prices from 2001 to 2004.
+
+
+386: Over the long term, has the U.S. unemployment rate generally trended up, trended down, or remained at basically the same level?
+        
+      
+
+387: Using the above data, what is the unemployment rate? These data are U.S. statistics from 2010. How does it compare to the February 2015 unemployment rate computed earlier?
+
+388: How to Measure Changes in the Cost of Living introduced a number of different price indices. Which price index would be best to use to adjust your paycheck for inflation?
+
+389: Edna is living in a retirement home where most of her needs are taken care of, but she has some discretionary spending. Based on the basket of goods in Table 22.5, by what percentage does Edna’s cost of living increase between time 1 and time 2?
+
+  
+
+Items
+Quantity
+(Time 1) Price
+(Time 2) Price
+
+
+  
+
+Gifts for grandchildren
+12
+$50
+$60
+
+
+
+Pizza delivery
+24
+$15
+$16
+
+
+
+Blouses
+6
+$60
+$50
+
+
+
+Vacation trips
+2
+$400
+$420
+
+
+
+  Table 
+  22.5
+   
+   
+
+
+
+
+390: Suppose the adult population over the age of 16 is 237.8 million and the labor force is 153.9 million (of whom 139.1 million are employed). How many people are “not in the labor force?” What are the proportions of employed, unemployed and not in the labor force in the population? Hint: Proportions are percentages.
+
+391: Construct the price index for a “fruit basket” in each year using 2003 as the base year.
+
+
+392: Go to this website for the Purchasing Power Calculator at MeasuringWorth.com. How much money would it take today to purchase what one dollar would have bought in the year of your birth?
+
+
+393: Table 22.4 shows the fruit prices that the typical college student purchased from 2001 to 2004. What is the amount spent each year on the “basket” of fruit with the quantities shown in column 2?
+
+
+  
+
+Items
+Qty
+(2001) Price
+(2001) Amount Spent
+(2002) Price
+(2002) Amount Spent
+(2003) Price
+(2003) Amount Spent
+(2004) Price
+(2004) Amount Spent 
+
+
+  
+
+Apples
+10
+$0.50
+
+$0.75
+
+$0.85
+
+$0.88
+
+
+
+
+Bananas
+12
+$0.20
+
+$0.25
+
+$0.25
+
+$0.29
+
+
+
+Grapes
+2
+$0.65
+
+$0.70
+
+$0.90
+
+$0.95
+
+
+
+Raspberries
+1
+$2.00
+
+$1.90
+
+$2.05
+
+$2.13
+$2.13
+
+
+Total
+
+
+
+
+
+
+
+
+
+
+
+
+  Table 
+  22.4
+   
+   
+
+
+
+394: Explain briefly whether each of the following would be more likely to lead to a higher level of trade for an economy, or a greater imbalance of trade for an economy.
+
+Living in an especially large country
+Having a domestic investment rate much higher than the domestic savings rate
+Having many other large economies geographically nearby
+Having an especially large budget deficit
+Having countries with a tradition of strong protectionist legislation shutting out imports
+
+
+
+395: The United States exports 14% of GDP while Germany exports about 50% of its GDP. Explain what that means.
+
+
+396: Describe a scenario in which a trade surplus benefits an economy and one in which a trade surplus is occurring in an economy that performs poorly. What key factor or factors are making the difference in the outcome that results from a trade surplus?
+
+
+
+397: How did large trade deficits hurt the East Asian countries in the mid 1980s? (Recall that trade deficits are equivalent to inflows of financial capital from abroad.)
+
+398: For each of the following, indicate which type of government spending would justify a budget deficit and which would not.
+
+Increased federal spending on Medicare
+Increased spending on education
+Increased spending on the space program
+Increased spending on airports and air traffic control
+
+    
+
+399: Both the United States and global economies are booming. Will U.S. imports and/or exports increase?
+    
+
+400: Why does a recession cause a trade deficit to increase?
+
+
+401: If domestic investment increases, and there is no change in the amount of private and public saving, what must happen to the size of the trade deficit?
+    
+
+402: If a country is running a government budget surplus, why is (T – G) on the left side of the saving-investment identity?
+    
+
+403: Explain the relationship between a current account deficit or surplus and the flow of funds.
+
+
+404: How does the bottom portion of Figure 23.3, showing the international flow of investments and capital, differ from the upper portion?
+
+
+405: What determines the size of a country’s trade deficit?
+    
+
+406: State whether each of the following events involves a financial flow to the U.S. economy or away from the U.S. economy:
+Export sales to Germany
+Returns paid on past U.S. financial investments in Brazil
+Foreign aid from the U.S. government to Egypt
+Imported oil from the Russian Federation
+Japanese investors buying U.S. real estate
+
+
+407: Using the national savings and investment identity, explain how each of the following changes (ceteris paribus) will increase or decrease the trade balance:
+
+A lower domestic savings rate
+The government changes from running a budget surplus to running a budget deficit
+The rate of domestic investment surges
+
+
+408: If the economy is operating in the Keynesian zone of the SRAS curve and aggregate demand falls, what is likely to happen to real GDP?
+
+
+409: If the trade deficit of the United States increases, how is the current account balance affected?
+
+
+410: Why does the trade balance and the current account balance track so closely together over time?
+
+
+411: At one point Canada’s GDP was $1,800 billion and its exports were $542 billion. What was Canada’s export ratio at this time?
+
+412: If foreign investors buy more U.S. stocks and bonds, how would that show up in the current account balance?
+
+
+413: In what way does comparing a country’s exports to GDP reflect its degree of globalization?
+
+414: State whether each of the following events involves a financial flow to the Mexican economy or a financial flow out of the Mexican economy:
+
+Mexico imports services from Japan
+Mexico exports goods to Canada
+U.S. investors receive a return from past financial investments in Mexico
+
+
+
+415: Suppose the Federal Reserve begins to increase the supply of money at an increasing rate. What impact would that have on GDP, unemployment, and inflation?
+
+
+416: Suppose, after five years of sluggish growth, the European Union's economy picks up speed. What would be the likely impact on the U.S. trade balance, GDP, and employment?
+
+417: Many financial analysts and economists eagerly await the press releases for the reports on the home price index and consumer confidence index. What would be the effects of a negative report on both of these? What about a positive report?
+
+
+418: A policymaker claims that tax cuts led the economy out of a recession. Can we use the AD/AS diagram to show this?
+
+419: What impact would a decrease in the size of the labor force have on GDP and the price level according to the AD/AS model?
+
+420: Suppose Mexico, one of our largest trading partners and purchaser of a large quantity of our exports, goes into a recession. Use the AD/AS model to determine the likely impact on our equilibrium GDP and price level. 
+
+421: If the economy is operating in the neoclassical zone of the SRAS curve and aggregate demand falls, what is likely to happen to real GDP?
+
+
+422: How would a dramatic increase in the value of the stock market shift the AD curve? What effect would the shift have on the equilibrium level of GDP and the price level?
+
+423: The GDP for the United States is $18,036 billion and its current account balance is –$484 billion. What percent of GDP is the current account balance?
+
+424: Suppose the U.S. Congress passes significant immigration reform that makes it more difficult for foreigners to come to the United States to work. Use the AD/AS model to explain how this would affect the equilibrium level of GDP and the price level.
+
+425: Suppose concerns about the size of the federal budget deficit lead the U.S. Congress to cut all funding for research and development for ten years. Assuming this has an impact on technology growth, what does the AD/AS model predict would be the likely effect on equilibrium GDP and the price level?
+
+426: Summarize the Keynesian and Neoclassical models.
+  
+
+427: Describe the mechanism by which supply creates its own demand.
+
+
+428: Describe the mechanism by which demand creates its own supply.
+
+
+429: In the AD/AS model, what prevents the economy from achieving equilibrium at potential output?
+
+430: The short run aggregate supply curve was constructed assuming that as the price of outputs increases, the price of inputs stays the same. How would an increase in the prices of important inputs, like energy, affect aggregate supply?
+
+431: Would it make sense to argue that rational expectations economics is an extreme version of neoclassical economics? Explain.
+    
+
+432: Do rational expectations tend to look back at past experience while adaptive expectations look ahead to the future? Explain your answer.
+  
+
+433: Imagine that you are in the position of buying loans in the secondary market (that is, buying the right to collect the payments on loans) for a bank or other financial services company. Explain why you would be willing to pay more or less for a given loan if:The borrower has been late on a number of loan payments
+  Interest rates in the economy as a whole have risen since the bank made the loan
+  The borrower is a firm that has just declared a high level of profits
+  Interest rates in the economy as a whole have fallen since the bank made the loan
+  
+
+434: Explain why the money listed under assets on a bank balance sheet may not actually be in the bank?
+  
+
+435: Can you name some item that is a store of value, but does not serve the other functions of money?
+
+
+436: Legislation proposes that the government should use macroeconomic policy to achieve an unemployment rate of zero percent, by increasing aggregate demand for as much and as long as necessary to accomplish this goal. From a neoclassical perspective, how will this policy affect output and the price level in the short run and in the long run? Sketch an aggregate demand/aggregate supply diagram to illustrate your answer. Hint: revisit Figure 26.4.
+
+437: For the following list of items, indicate if they are in M1, M2, or neither:
+  
+  Your $5,000 line of credit on your Bank of America card
+  $50 dollars’ worth of traveler’s checks you have not used yet
+  $1 in quarters in your pocket
+  $1200 in your checking account
+  $2000 you have in a money market account
+  
+  
+
+438: If you are out shopping for clothes and books, what is easiest and most convenient for you to spend: M1 or M2? Explain your answer.
+  
+
+439: Does Keynesian economics require government to set controls on prices, wages, or interest rates?
+  
+
+440: List three practical problems with the Keynesian perspective.
+  
+
+441: Suppose the U.S. Congress cuts federal government spending in order to balance the Federal budget. Use the AD/AS model to analyze the likely impact on output and employment. Hint: revisit Figure 25.6.
+
+442: How would a decrease in energy prices affect the Phillips curve?
+  
+
+443: In many casinos, a person buys chips to use for gambling. Within the casino's walls, customers often can use these chips to buy food and drink or even a hotel room. Do chips in a gambling casino serve all three functions of money?
+
+444: In the Keynesian framework, which of the following events might cause a recession? Which might cause inflation? Sketch AD/AS diagrams to illustrate your answers.
+  
+  A large increase in the price of the homes people own.
+  Rapid growth in the economy of a major trading partner.
+  The development of a major new technology offers profitable opportunities for business.
+  The interest rate rises.
+  The good imported from a major trading partner become much less expensive.
+  
+  
+
+445: In a Keynesian framework, using an AD/AS diagram, which of the following government policy choices offer a possible solution to recession? Which offer a possible solution to inflation?
+  
+  A tax increase on consumer income.
+  A surge in military spending.
+  A reduction in taxes for businesses that increase investment.
+  A major increase in what the U.S. government spends on healthcare.
+  
+  
+
+446: Use the AD/AS model to explain how an inflationary gap occurs, beginning from the initial equilibrium in Figure 25.6.
+
+447: Calculate the equity each of these people has in their home:
+  Eva just bought a house for $200,000 by putting 10% as a down payment and borrowing the rest from the bank.
+  Freda bought a house for $150,000 in cash, but if she were to sell it now, it would sell for $250,000.
+  Ben bought a house for $100,000. He put 20% down and borrowed the rest from the bank. However, the value of the house has now increased to $160,000 and he has paid off $20,000 of the bank loan.
+  
+  
+
+448: If you receive $500 in simple interest on a loan that you made for $10,000 for five years, what was the interest rate you charged?
+
+449: Investors sometimes fear that a high-risk investment is especially likely to have low returns. Is this fear true? Does a high risk mean the return must be low?
+  
+
+450: From a firm’s point of view, how is a bond similar to a bank loan? How are they different?
+                    
+
+451: You open a 5-year CD for $1,000 that pays 2% interest, compounded annually. What is the value of that CD at the end of the five years?
+
+452: Which has a higher average return over time: stocks, bonds, or a savings account? Explain your answer.
+  
+
+453: Answer these three questions about early-stage corporate finance:
+    
+    Why do very small companies tend to raise money from private investors instead of through an IPO?
+    Why do small, young companies often prefer an IPO to borrowing from a bank or issuing bonds?
+    Who has better information about whether a small firm is likely to earn profits, a venture capitalist or a potential bondholder, and why?
+    
+    
+
+454: Anastasia, Emma, and Greta are deciding what to do on a weekend getaway. They each suggest a first, second, and third choice and then vote on the options. Table 18.2 shows their first, second, and third choice preferences . Explain why they will have a hard time reaching a decision. Does the group prefer mountain biking to canoeing? What about canoeing compared to the beach? What about the beach compared to the original choice of mountain biking?
+  
+  
+  
+  
+  
+    Anastasia
+    Emma
+    Greta
+  
+  
+  
+  
+          
+            First Choice
+            Beach
+            Mountain biking
+            Canoeing
+          
+  
+          
+            Second Choice
+            Mountain biking
+            Canoeing
+            Beach
+          
+          
+            Third Choice
+            Canoeing
+            Beach
+            Mountain biking
+          
+  
+
+  Table 
+  18.2
+   
+   
+
+
+
+455: What is the total amount of interest from a $5,000 loan after three years with a simple interest rate of 6%?
+
+456: Why might legislators vote to impose a tariff on Egyptian cotton, when consumers in their districts would benefit from its availability?
+      
+
+457: True or false: Majority rule can fail to produce a single preferred outcome when there are more than two choices.
+      
+
+458: Suppose there is an election for Soft Drink Commissioner. The field consists of one candidate from the Pepsi party and four from the Coca-Cola party. This would seem to indicate a strong preference for Coca-Cola among the voting population, but the Pepsi candidate ends up winning in a landslide. Why does this happen?
+
+459: What is the main factor preventing a large community from influencing policy in the same way as a special interest group?
+      
+
+460: What is the cost of voting in an election?
+      
+
+461: Why is it difficult to measure health outcomes?
+
+
+462: Based on the theory of rational ignorance, what should we expect to happen to voter turnout as the internet makes information easier to obtain?
+
+463: Why is there asymmetric information in the labor market? What signals can an employer look for that might indicate the traits they are seeking in a new employee?
+
+
+464: For each of the following purchases, say whether you would expect the degree of imperfect information to be relatively high or relatively low:
+Buying apples at a roadside stand
+Buying dinner at the neighborhood restaurant around the corner
+Buying a used laptop computer at a garage sale
+Ordering flowers over the internet for your friend in a different city
+
+
+465: Why is there reluctance on the part of some in the United States to redistribute income so that greater equality can be achieved?
+
+
+466: Using two demand and supply diagrams, one for the low-wage labor market and one for the high-wage labor market, explain how a program that increased educational levels for a substantial number of low-skill workers could reduce income inequality.
+
+
+467: Which set of policies is more likely to cause a tradeoff between economic output and equality: policies of redistribution or policies aimed at the ladder of opportunity? Explain how the production possibility frontier tradeoff between economic equality and output might look in each case.
+
+
+468: Here is a second hypothesis: A well-funded social safety net may lead to less regulation of the market economy. Explain why this might be so, and sketch a production possibility curve that shows this tradeoff.
+
+
+469: Using two demand and supply diagrams, one for the low-wage labor market and one for the high-wage labor market, explain how information technology can increase income inequality if it is a complement to high-income workers like salespeople and managers, but a substitute for low-income workers like file clerks and telephone receptionists.
+
+
+470: Here is one hypothesis: A well-funded social safety net can increase economic equality but will reduce economic output. Explain why this might be so, and sketch a production possibility curve that shows this tradeoff.
+
+
+471: Table 15.9 shows the share of income going to each quintile of the income distribution for the United Kingdom in 1979 and 1991. Use this data to calculate what the points on a Lorenz curve would be, and sketch the Lorenz curve. How did inequality in the United Kingdom shift over this time period? How can you see the patterns in the quintiles in the Lorenz curves?
+    
+  
+  
+
+Share of Income
+1979
+1991
+
+
+  
+
+Top quintile
+39.7%
+42.9%
+
+
+Fourth quintile
+24.8%
+22.7%
+
+
+Middle quintile
+17.0%
+16.3%
+
+
+Second quintile
+11.5%
+11.5%
+
+
+Bottom quintile
+7.0%
+6.6%
+
+
+
+  Table 
+  15.9
+   
+Income Distribution in the United Kingdom, 1979 and 1991
+
+   
+
+
+
+472: A group of 10 people have the following annual incomes: $24,000, $18,000, $50,000, $100,000, $12,000, $36,000, $80,000, $10,000, $24,000, $16,000. Calculate the share of total income that each quintile receives from this income distribution. Do the top and bottom quintiles in this distribution have a greater or larger share of total income than the top and bottom quintiles of the U.S. income distribution?
+
+473: Describe how each of these changes is likely to affect poverty and inequality:
+Incomes rise for low-income and high-income workers, but rise more for the high-income earners.
+Incomes fall for low-income and high-income workers, but fall more for high-income earners.
+
+
+
+474: We have discovered that the welfare system discourages recipients from working because the more income they earn, the less welfare benefits they receive. How does the earned income tax credit attempt to loosen the poverty trap?
+
+
+475: Imagine that the government reworks the welfare policy that was affecting Jonathan in question 2, so that for each dollar someone like Jonathan earns at work, his government benefits diminish by only 30 cents. Reconstruct the table from question 2 to account for this change in policy. Draw Jonathan’s labor-leisure opportunity sets, both for before this welfare program is enacted and after it is enacted.
+
+
+476: How does the TANF attempt to loosen the poverty trap?
+
+
+477: Jonathon is a single father with one child. He can work as a server for $6 per hour for up to 1,500 hours per year. He is eligible for welfare, and so if he does not earn any income, he will receive a total of $10,000 per year. He can work and still receive government benefits, but for every $1 of income, his welfare stipend is $1 less. Create a table similar to Table 15.4 that shows Jonathan’s options. Use four columns, the first showing number of hours to work, the second showing his earnings from work, the third showing the government benefits he will receive, and the fourth column showing his total income (earnings + government support). Sketch a labor-leisure diagram of Jonathan’s opportunity set with and without government support.
+
+478: Explain in each of the following situations how market forces might give a business an incentive to act in a less discriminatory fashion.
+
+A local flower delivery business that had intentionally served only White customers notices that many of the local residents are Black.
+An assembly line has traditionally only hired men, but it is having a hard time hiring sufficiently qualified workers.
+A relationship counselor who had a strict policy of only serving straight couples notes the significant increase of LGBTQ people moving into the town.
+
+
+
+479: If immigration is reduced, what is the impact on the wage for low-skilled labor? Explain.
+
+
+480: Do countries with a higher percentage of unionized workers usually have less growth in productivity because of strikes and other disruptions caused by the unions? Why or why not?
+
+481: Compared with the share of workers in most other high-income countries, is the share of U.S. workers whose wages are determined by union bargaining higher or lower? Why or why not?
+
+
+482: Are firms with a high percentage of union employees more likely to go bankrupt because of the higher wages that they pay? Why or why not?
+
+
+483: Table 14.12 shows the quantity demanded and supplied in the labor market for driving city buses in the town of Unionville, where all the bus drivers belong to a union.
+
+
+
+  
+  
+
+Wage Per Hour
+Quantity of Workers Demanded
+Quantity of Workers Supplied
+
+
+  
+
+$14
+12,000
+6,000
+
+
+$16
+10,000
+7,000
+
+
+$18
+8,000
+8,000
+
+
+$20
+6,000
+9,000
+
+
+$22
+4,000
+10,000
+
+
+$24
+2,000
+11,000
+
+
+
+  Table 
+  14.12
+   
+   
+
+
+
+What would the equilibrium wage and quantity be in this market if no union existed?
+Assume that the union has enough negotiating power to raise the wage to $4 per hour higher than it would otherwise be. Is there now excess demand or excess supply of labor?
+
+
+
+484: Do unions typically oppose new technology out of a fear that it will reduce the number of union jobs? Why or why not?
+
+
+485: Does the earnings gap between the average wages of females and the average wages of males prove labor market discrimination? Why or why not?
+
+
+486: Table 14.13 shows information from the supply curve for labor for a monopsonist, that is, the wage rate required at each level of employment.
+    
+  
+  Labor
+    Wage
+  
+  
+    1
+    1
+  
+  
+    2
+    3
+  
+ 
+    3
+    5
+  
+ 
+    4
+    7
+  
+ 
+    5
+    8
+  
+ 
+    6
+    10
+  
+
+
+  Table 
+  14.13
+   
+   
+
+
+  What is the monopsonist’s marginal cost of labor at each level of employment?  
+  If each unit of labor’s marginal revenue product is $13, what is the firm’s profit maximizing level of employment and wage?
+
+
+487: Classify the following pollution-control policies as command-and-control or market incentive based.
+
+A state emissions tax on the quantity of carbon emitted by each firm.
+The federal government requires domestic auto companies to improve car emissions by 2020.
+The EPA sets national standards for water quality.
+A city sells permits to firms that allow them to emit a specified quantity of pollution.
+The federal government pays fishermen to preserve salmon.
+
+
+
+488: Consider the case of global environmental problems that spill across international borders as a prisoner’s dilemma of the sort studied in Monopolistic Competition and Oligopoly. Say that there are two countries, A and B. Each country can choose whether to protect the environment, at a cost of 10, or not to protect it, at a cost of zero. If one country decides to protect the environment, there is a benefit of 16, but the benefit is divided equally between the two countries. If both countries decide to protect the environment, there is a benefit of 32, which is divided equally between the two countries.In Table 12.10, fill in the costs, benefits, and total payoffs to the countries of the following decisions. Explain why, without some international agreement, they are likely to end up with neither country acting to protect the environment.
+
+
+
+
+Country B
+
+
+
+Protect
+Not Protect
+
+
+
+Country A
+Protect
+
+
+
+
+
+Not Protect
+
+
+
+
+  Table 
+  12.10
+   
+   
+
+
+
+
+
+
+489: The rows in Table 12.7 show three market-oriented tools for reducing pollution. The columns of the table show three complaints about command-and-control regulation. Fill in the table by stating briefly how each market-oriented tool addresses each of the three concerns.
+
+
+  
+  
+
+
+Incentives to Go Beyond
+Flexibility about Where and How Pollution Will Be Reduced
+Political Process Creates Loopholes and Exceptions
+
+
+  
+
+Pollution Charges
+
+
+
+
+
+Marketable Permits
+
+
+
+
+
+Property Rights
+
+
+
+
+
+
+
+  Table 
+  12.7
+   
+   
+
+
+
+
+
+490: Suppose a city releases 16 million gallons of raw sewage into a nearby lake. Table 12.8 shows the total costs of cleaning up the sewage to different levels, together with the total benefits of doing so. (Benefits include environmental, recreational, health, and industrial benefits.)
+
+
+  
+
+
+Total Cost (in thousands of dollars)
+Total Benefits (in thousands of dollars)
+
+
+  
+
+16 million gallons
+Current situation
+Current situation
+
+
+12 million gallons
+ 50
+ 800
+
+
+8 million gallons
+150
+1300
+
+
+4 million gallons
+500
+1650
+
+
+0 gallons
+1200
+1900
+
+
+
+  Table 
+  12.8
+   
+   
+
+Using the information in Table 12.8, calculate the marginal costs and marginal benefits of reducing sewage emissions for this city. See Production, Costs and Industry Structure if you need a refresher on how to calculate marginal costs.
+
+
+
+What is the optimal level of sewage for this city?
+Why not just pass a law that firms can emit zero sewage? After all, the total benefits of zero emissions exceed the total costs.
+
+
+491: Consider two approaches to reducing emissions of CO2 into the environment from manufacturing industries in the United States. In the first approach, the U.S. government makes it a policy to use only predetermined technologies. In the second approach, the U.S. government determines which technologies are cleaner and subsidizes their use. Of the two approaches, which is the command-and-control policy?
+
+492: Table 12.5 provides the supply and demand conditions for a manufacturing firm. The third column represents a supply curve without accounting for the social cost of pollution. The fourth column represents the supply curve when the firm is required to account for the social cost of pollution. Identify the equilibrium before the social cost of production is included and after the social cost of production is included.
+  
+  
+
+Price
+Quantity Demanded
+Quantity Supplied without paying the cost of the pollution
+Quantity Supplied after paying the cost of the pollution
+
+
+  
+
+$10
+450
+400
+250
+
+
+$15
+440
+440
+290
+
+
+$20
+430
+480
+330
+
+
+$25
+420
+520
+370
+
+
+$30
+410
+560
+410
+
+
+
+  Table 
+  12.5
+   
+   
+
+
+
+
+493: A country called Sherwood is very heavily covered with a forest of 50,000 trees. There are proposals to clear some of Sherwood’s forest and grow corn, but obtaining this additional economic output will have an environmental cost from reducing the number of trees. Table 12.11 shows possible combinations of economic output and environmental protection.
+
+
+  
+  
+
+Combos
+Corn Bushels (thousands)
+Number of Trees (thousands)
+
+
+  
+
+P
+9
+5
+
+
+Q
+2
+30
+
+
+R
+7
+20
+
+
+S
+2
+40
+
+
+T
+6
+10
+
+
+
+  Table 
+  12.11
+   
+   
+
+
+
+Sketch a graph of a production possibility frontier with environmental quality on the horizontal axis, measured by the number of trees, and the quantity of economic output, measured in corn, on the vertical axis.
+Which choices display productive efficiency? How can you tell?
+Which choices show allocative efficiency? How can you tell?
+In the choice between T and R, decide which one is better. Why?
+In the choice between T and S, can you say which one is better, and why?
+If you had to guess, which choice would you think is more likely to represent a command-and-control environmental policy and which choice is more likely to represent a market-oriented environmental policy, choice Q or S? Why?
+
+
+
+494: The state of Colorado requires oil and gas companies who use fracking techniques to return the land to its original condition after the oil and gas extractions. Table 12.9 shows the total cost and total benefits (in dollars) of this policy.
+
+  
+  
+
+Land Restored (in acres)
+Total Cost
+Total Benefit
+
+
+  
+
+0
+$0
+$0
+
+
+100
+$20
+$140
+
+
+200
+$80
+$240
+
+
+300
+$160
+$320
+
+
+400
+$280
+$380
+
+
+
+  Table 
+  12.9
+   
+   
+
+
+Calculate the marginal cost and the marginal benefit at each quantity (acre) of land restored. See Production, Costs and Industry Structure if you need a refresher on how to calculate marginal costs and benefits.
+
+
+If we apply marginal analysis, what is the optimal amount of land to be restored?
+
+
+495: An emissions tax on a quantity of emissions from a firm is not a command-and-control approach to reducing pollution. Why? 
+
+
+496: Four firms called Elm, Maple, Oak, and Cherry, produce wooden chairs. However, they also produce a great deal of garbage (a mixture of glue, varnish, sandpaper, and wood scraps). The first row of Table 12.6 shows the total amount of garbage (in tons) that each firm currently produces. The other rows of the table show the cost of reducing garbage produced by the first five tons, the second five tons, and so on. First, calculate the cost of requiring each firm to reduce the weight of its garbage by one-fourth. Now, imagine that the government issues marketable permits for the current level of garbage, but the permits will shrink the weight of allowable garbage for each firm by one-fourth. What will be the result of this alternative approach to reducing pollution?
+  
+
+
+Elm
+Maple
+Oak
+Cherry
+
+
+  
+
+Current production of garbage (in tons)
+20
+40
+60
+80
+
+
+Cost of reducing garbage by first five tons
+$5,500
+$6,300
+$7,200
+$3,000
+
+
+Cost of reducing garbage by second five tons
+$6,000
+$7,200
+$7,500
+$4,000
+
+
+Cost of reducing garbage by third five tons
+$6,500
+$8,100
+$7,800
+$5,000
+
+
+Cost of reducing garbage by fourth five tons
+$7,000
+$9,000
+$8,100
+$6,000
+
+
+Cost of reducing garbage by fifth five tons
+$0
+$9,900
+$8,400
+$7,000
+
+
+
+  Table 
+  12.6
+   
+   
+
+
+
+497: For each of your answers to Exercise 12.2, will equilibrium price rise or fall or stay the same?
+
+498: Identify whether the market supply curve will shift right or left or will stay the same for the following:
+Firms in an industry are required to pay a fine for their carbon dioxide emissions.
+Companies are sued for polluting the water in a river.
+Power plants in a specific city are not required to address the impact of their air quality emissions. 
+Companies that use fracking to remove oil and gas from rock are required to clean up the damage.
+
+
+
+499: Table 14.11 shows levels of employment (Labor), the marginal product at each of those levels, and a monopoly’s marginal revenue.
+
+
+  
+  
+
+Labor
+Marginal Product of Labor
+Price of the Product
+
+
+  
+
+1
+10
+$10
+
+
+2
+8
+$7
+
+
+3
+7
+$5
+
+
+4
+5
+$4
+
+
+5
+3
+$2
+
+
+6
+1
+$1
+
+
+
+  Table 
+  14.11
+   
+   
+
+What is the monopoly’s marginal revenue product at each level of employment?
+If the monopoly operates in a perfectly competitive labor market where the going market wage is $20, what is the firm’s profit maximizing level of employment?
+
+
+500: Identify the following situations as an example of a negative or a positive externality: 
+
+You are a birder (bird watcher), and your neighbor has put up several birdhouses in the yard as well as planting trees and flowers that attract birds. 
+Your neighbor paints his house a hideous color.  
+Investments in private education raise your country’s standard of living.
+Trash dumped upstream flows downstream right past your home. 
+Your roommate is a smoker, but you are a nonsmoker. 
+
+
+
+501: When residents in a neighborhood tidy it and keep it neat, there are a number of positive spillovers: higher property values, less crime, happier residents. What types of government policies can encourage neighborhoods to clean up?
+
+502: The Junkbuyers Company travels from home to home, looking for opportunities to buy items that would otherwise end up with the garbage, but which the company can resell or recycle. Which will be larger, the private or the social benefits?
+
+503: Suppose that Sony's R&D investment in digital devices has increased profits by 20%. Is this a private or social benefit?
+
+504: The Gizmo Company is planning to develop new household gadgets. Table 13.4 shows the company’s demand for financial capital for research and development of these gadgets, based on expected rates of return from sales. Now, say that every investment would have an additional 5% social benefit—that is, an investment that pays at least a 6% return to the Gizmo Company will pay at least an 11% return for society as a whole; an investment that pays at least 7% for the Gizmo Company will pay at least 12% for society as a whole, and so on. Answer the questions that follow based on this information.
+
+
+  
+Estimated Rate of ReturnPrivate profits of the firm from an R&D project (in $ millions)
+
+  
+10%$100
+9%$102
+8%$108
+7%$118
+6%$133
+5%$153
+4%$183
+3%$223
+
+
+  Table 
+  13.4
+   
+   
+
+
+
+
+If the going interest rate is 9%, how much will Gizmo invest in R&D if it receives only the private benefits of this investment?
+Assume that the interest rate is still 9%. How much will the firm invest if it also receives the social benefits of its investment? (Add an additional 5% return on all levels of investment.)
+
+
+
+505: Do market demand curves reflect positive externalities? Why or why not?
+
+506: Table 14.10 shows levels of employment (Labor), the marginal product at each of those levels, and the price at which the firm can sell output in the perfectly competitive market where it operates.
+
+
+  
+  
+
+Labor
+Marginal Product of Labor
+Price of the Product
+
+
+  
+
+1
+10
+$4
+
+
+2
+8
+$4
+
+
+3
+7
+$4
+
+
+4
+5
+$4
+
+
+5
+3
+$4
+
+
+6
+1
+$4
+
+
+
+  Table 
+  14.10
+   
+   
+
+What is the value of the marginal product at each level of labor?
+If the firm operates in a perfectly competitive labor market where the going market wage is $12, what is the firm’s profit maximizing level of employment?
+
+
+507: Are the following goods non-rival in consumption?
+slice of pizza
+laptop computer
+public radio
+ice cream cone
+
+
+
+508: Which of the following goods or services are nonexcludable?
+
+police protection
+streaming music from satellite transmission programs
+roads
+primary education
+cell phone service
+
+
+
+509: Education provides both private benefits to those who receive it and broader social benefits for the economy as a whole. Think about the types of policies a government can follow to address the issue of positive spillovers in technology and then suggest a parallel set of policies that governments could follow for addressing positive externalities in education.
+
+
+510: From the graph you drew to answer Exercise 11.6, would you say this transit system is a natural monopoly? Justify.
+
+
+511: Continuing with the scenario in question 1, in the long run, the positive economic profits that the monopolistic competitor earns will attract a response either from existing firms in the industry or firms outside. As those firms capture the original firm’s profit, what will happen to the original firm’s profit-maximizing price and output levels?
+
+512: What might some of the negatives of deregulation be?
+
+
+513: Sometimes oligopolies in the same industry are very different in size. Suppose we have a duopoly where one firm (Firm A) is large and the other firm (Firm B) is small, as the prisoner’s dilemma box in Table 10.4 shows.
+
+
+  
+  
+
+
+Firm B colludes with Firm A
+Firm B cheats by selling more output
+
+
+
+
+Firm A colludes with Firm B
+A gets $1,000, B gets $100
+A gets $800, B gets $200
+
+
+Firm A cheats by selling more output
+A gets $1,050, B gets $50
+A gets $500, B gets $20
+
+
+
+  Table 
+  10.4
+   
+   
+
+
+
+
+
+Assuming that both firms know the payoffs, what is the likely outcome in this case?
+
+514: What are some of the benefits of the deregulation?
+
+
+515: What real-world changes made the deregulation possible?
+
+516: Consider the curve in the figure below, which shows the market demand, marginal cost, and marginal revenue curve for firms in an oligopolistic industry. In this example, we assume firms have zero fixed costs.
+
+
+
+
+
+  Figure 
+10.6
+
+
+
+  
+  
+Suppose the firms collude to form a cartel. What price will the cartel charge? What quantity will the cartel supply? How much profit will the cartel earn?
+Suppose now that the cartel breaks up and the oligopolistic firms compete as vigorously as possible by cutting the price and increasing sales. What will be the industry quantity and price? What will be the collective profits of all firms in the industry?
+Compare the equilibrium price, quantity, and profit for the cartel and cutthroat competition outcomes.
+
+
+517: Suppose that, due to a successful advertising campaign, a monopolistic competitor experiences an increase in demand for its product. How will that affect the price it charges and the quantity it supplies?
+
+
+518: Take Jeremy’s total utility information in Exercise 6.1, and use the marginal utility approach to confirm the choice of phone minutes and round trips that maximize Jeremy’s utility.
+  
+
+519: As a college student you work at a part-time job, but your parents also send you a monthly “allowance.” Suppose one month your parents forgot to send the check. Show graphically how your budget constraint is affected. Assuming you only buy normal goods, what would happen to your purchases of goods? 
+  
+
+520: Return to the problem explained in Table 7.13 and Table 7.14. If the cost of labor remains at $40, but the cost of a machine decreases to $50, what would be the total cost of each method of production? Which method should the firm use, and why?
+    
+
+521: If two painters can paint 200 square feet of wall in an hour, and three painters can paint 275 square feet, what is the marginal product of the third painter?
+
+    
+
+522: Explain all the reasons why a decrease in a product's price would lead to an increase in purchases. 
+
+523: Productive efficiency and allocative efficiency are two concepts achieved in the long run in a perfectly competitive market. These are the two reasons why we call them “perfect.” How would you use these two concepts to analyze other market structures and label them “imperfect?”
+  
+
+524: Based on your answers to the WipeOut Ski Company in Exercise 7.3, now imagine a situation where the firm produces a quantity of 5 units that it sells for a price of $25 each.
+          What will be the company’s profits or losses?
+          How can you tell at a glance whether the company is making or losing money at this price by looking at average cost?
+          At the given quantity and price, is the marginal unit produced adding to profits?
+        
+  
+      
+
+525: A market in perfect competition is in long-run equilibrium. What happens to the market if labor unions are able to increase wages for workers?
+  
+
+526: Jeremy is deeply in love with Jasmine. Jasmine lives where cell phone coverage is poor, so he can either call her on the land-line phone for five cents per minute or he can drive to see her, at a round-trip cost of $2 in gasoline money. He has a total of $10 per week to spend on staying in touch. To make his preferred choice, Jeremy uses a handy utilimometer that measures his total utility from personal visits and from phone minutes. Using the values in Table 6.6, figure out the points on Jeremy’s consumption choice budget constraint (it may be helpful to do a sketch) and identify his utility-maximizing point.
+  
+  
+  
+  Round Trips
+  Total Utility
+  Phone Minutes
+  Total Utility
+  
+  
+  
+  
+  0
+     0
+     0
+       0
+  
+  
+  
+  1
+   80
+    20
+    200
+  
+  
+  
+  2
+  150
+    40
+    380
+  
+  
+  
+  3
+  210
+    60
+    540
+  
+  
+  
+  4
+  260
+    80
+    680
+  
+  
+  
+  5
+  300
+  100
+    800
+  
+  
+  
+  6
+  330
+  120
+    900
+  
+  
+  
+  7
+  200
+  140
+    980
+  
+  
+  
+  8
+  180
+  160
+  1040
+  
+  
+  
+  9
+  160
+  180
+  1080
+  
+  
+  
+  10
+  140
+  200
+  1100
+  
+  
+
+  Table 
+  6.6
+   
+   
+
+
+
+527: Suppose the cost of machines increases to $55, while the cost of labor stays at $40. How would that affect the total cost of the three methods? Which method should the firm choose now?
+    
+
+528: The WipeOut Ski Company manufactures skis for beginners. Fixed costs are $30. Fill in Table 7.16 for total cost, average variable cost, average total cost, and marginal cost.
+  
+  
+  
+  
+    Quantity
+    Variable Cost
+    Fixed Cost
+    Total Cost
+    Average Variable Cost
+    Average Total Cost
+    Marginal Cost
+  
+  
+  
+          
+            0
+            0
+            $30
+            
+            
+            
+            
+          
+  
+          
+            1
+            $10
+            $30
+            
+            
+            
+            
+          
+  
+          
+            2
+            $25
+            $30
+            
+            
+            
+            
+          
+  
+          
+            3
+            $45
+            $30
+            
+            
+            
+            
+          
+  
+          
+            4
+            $70
+            $30
+            
+            
+            
+            
+          
+  
+          
+            5
+            $100
+            $30
+            
+            
+            
+            
+          
+  
+          
+            6
+            $135
+            $30
+            
+            
+            
+            
+          
+  
+  
+        
+
+  Table 
+  7.16
+   
+   
+
+
+      
+
+529: Explain how the profit-maximizing rule of setting P = MC leads a perfectly competitive market to be allocatively efficient.
+  
+
+530: A firm’s marginal cost curve above the average variable cost curve is equal to the firm’s individual supply curve. This means that every time a firm receives a price from the market it will be willing to supply the amount of output where the price equals marginal cost. What happens to the firm’s individual supply curve if marginal costs increase?
+   
+
+531: Explain in words why a profit-maximizing firm will not choose to produce at a quantity where marginal cost exceeds marginal revenue.
+   
+
+532: If new technology in a perfectly competitive market brings about a substantial reduction in costs of production, how will this affect the market?
+  
+
+533: Automobile manufacturing is an industry subject to significant economies of scale. Suppose there are four domestic auto manufacturers, but the demand for domestic autos is no more than 2.5 times the quantity produced at the bottom of the long-run average cost curve. What do you expect will happen to the domestic auto industry in the long run?
+    
+
+534: The federal government decides to require that automobile manufacturers install new anti-pollution equipment that costs $2,000 per car. Under what conditions can carmakers pass almost all of this cost along to car buyers? Under what conditions can carmakers pass very little of this cost along to car buyers?
+  
+
+535: Why is the supply curve with constant unitary elasticity a straight line? 
+  
+
+536: Suppose the cross-price elasticity of apples with respect to the price of oranges is 0.4, and the price of oranges falls by 3%. What will happen to the demand for apples? 
+  
+
+537: What would the gasoline price elasticity of supply mean to UPS or FedEx?
+  
+
+538: Suppose you are in charge of sales at a pharmaceutical company, and your firm has a new drug that causes bald men to grow hair. Assume that the company wants to earn as much revenue as possible from this drug. If the elasticity of demand for your company’s product at the current price is 1.4, would you advise the company to raise the price, lower the price, or to keep the price the same? What if the elasticity were 0.6? What if it were 1? Explain your answer.
+  
+
+539: The average annual income rises from $25,000 to $38,000, and the quantity of bread consumed in a year by the average person falls from 30 loaves to 22 loaves. What is the income elasticity of bread consumption? Is bread a normal or an inferior good?
+  
+
+540: Why is the demand curve with constant unitary elasticity concave?
+  
+
+541: From the data in Table 5.6 about supply of alarm clocks, calculate the price elasticity of supply from: point J to point K, point L to point M, and point N to point P. Classify the elasticity at each point as elastic, inelastic, or unit elastic.
+  
+  
+    Point
+    Price
+    Quantity Supplied
+  
+  
+  
+  
+  
+          J 
+           $8
+          50 
+   
+  
+  
+           K
+          $9 
+          70 
+   
+  
+  
+          L 
+          $10 
+          80 
+   
+  
+  
+           M
+          $11 
+          88 
+   
+  
+  
+           N
+          $12 
+          95 
+   
+  
+  
+          P 
+           $13
+           100
+   
+  
+
+  Table 
+  5.6
+   
+   
+
+
+  
+
+542: From the data in Table 5.5 about demand for smart phones, calculate the price elasticity of demand from: point B to point C, point D to point E, and point G to point H. Classify the elasticity at each point as elastic, inelastic, or unit elastic.
+  
+  
+  
+  
+    Points
+    P
+    Q
+  
+  
+  
+          
+            A
+            60
+            3,000
+          
+  
+          
+            B
+            70
+            2,800
+          
+  
+          
+            C
+            80
+            2,600 
+          
+  
+          
+            D
+            90
+             2,400
+          
+  
+          
+            E 
+            100
+            2,200
+          
+  
+          
+            F 
+            110
+            2,000 
+          
+  
+          
+            G 
+            120
+            1,800
+          
+  
+          
+            H 
+            130
+  1,600
+          
+        
+
+  Table 
+  5.5
+   
+   
+
+
+  
+  
+  
+  
+  
+  
+
+543: Continuing from Exercise 7.1, the firm’s factory sits on land owned by the firm that it could rent for $30,000 per year. What was the firm’s economic profit last year? 
+
+544: Suppose the local electrical utility, a legal monopoly based on economies of scale, was split into four firms of equal size, with the idea that eliminating the monopoly would promote competitive pricing of electricity. What do you anticipate would happen to prices?
+
+
+545: Imagine a monopolist could charge a different price to every customer based on how much the customer is willing to pay. How would this affect monopoly profits?
+
+
+546: A firm had sales revenue of $1 million last year. It spent $600,000 on labor, $150,000 on capital and $200,000 on materials. What was the firm’s accounting profit? 
+      
+
+547: If Congress reduced the period of patent protection from 20 years to 10 years, what would likely happen to the amount of private research and development?
+
+
+548: Suppose demand for a monopoly’s product falls so that its profit-maximizing price is below average variable cost. How much output should the firm supply? Hint: Draw the graph.
+
+
+549: Suppose that the market price increases to $6, as Table 8.14 shows. What would happen to the profit-maximizing output level?
+  
+   
+   Quantity
+   Total Cost
+   Fixed Cost
+   Variable Cost
+   Marginal Cost
+   Total Revenue
+   Marginal Revenue
+   
+   
+  
+   
+   0
+   $62
+   $62
+   -
+   -
+   $0
+   -
+   
+   
+   10
+   $90
+   $62
+   $28
+   $2.80
+   $60
+   $6.00
+   
+   
+   20
+   $110
+   $62
+   $48
+   $2.00
+   $120
+   $6.00
+   
+   
+   30
+   $126
+   $62
+   $64
+   $1.60
+   $180
+   $6.00
+   
+   
+   40
+   $144
+   $62
+   $82
+   $1.80
+   $240
+   $6.00
+   
+   
+   50
+   $166
+   $62
+   $104
+   $2.20
+   $300
+   $6.00
+   
+   
+   60
+   $192
+   $62
+   $130
+   $2.60
+   $360
+   $6.00
+   
+   
+   70
+   $224
+   $62
+   $162
+   $3.20
+   $420
+   $6.00
+   
+   
+   80
+   $264
+   $62
+   $202
+   $4.00
+   $480
+   $6.00
+   
+   
+   90
+   $324
+   $62
+   $262
+   $6.00
+   $540
+   $6.00
+   
+   
+   100
+   $404
+   $62
+   $342
+   $8.00
+   $600
+   $6.00
+   
+   
+
+  Table 
+  8.14
+   
+   
+
+
+
+550: Classify the following as a government-enforced barrier to entry, a barrier to entry that is not government-enforced, or a situation that does not involve a barrier to entry.
+      
+        A patented invention
+        A popular but easily copied restaurant recipe
+        An industry where economies of scale are very small compared to the size of demand in the market
+        A well-established reputation for slashing prices in response to new entry
+        A well-respected brand name that has been carefully built up over many years
+      
+
+    
+
+551: Classify the following as a government-enforced barrier to entry, a barrier to entry that is not government-enforced, or a situation that does not involve a barrier to entry.
+      
+        A city passes a law on how many licenses it will issue for taxicabs
+        A city passes a law that all taxicab drivers must pass a driving safety test and have insurance
+        A well-known trademark
+        Owning a spring that offers very pure water 
+        An industry where economies of scale are very large compared to the size of demand in the market
+      
+
+
+552: Look at Table 8.13. What would happen to the firm’s profits if the market price increases to $6 per pack of raspberries?
+   
+  
+   
+   Quantity
+   Total Cost
+   Fixed Cost
+   Variable Cost
+   Total Revenue
+   Profit
+   
+   
+  
+   
+   0
+   $62
+   $62
+   -
+   $0
+   −$62
+   
+   
+   10
+   $90
+   $62
+   $28
+   $60
+   −$30
+   
+   
+   20
+   $110
+   $62
+   $48
+   $120
+   $10
+   
+   
+   30
+   $126
+   $62
+   $64
+   $180
+   $54
+   
+   
+   40
+   $144
+   $62
+   $82
+   $240
+   $96
+   
+   
+   50
+   $166
+   $62
+   $104
+   $300
+   $134
+   
+   
+   60
+   $192
+   $62
+   $130
+   $360
+   $168
+   
+   
+   70
+   $224
+   $62
+   $162
+   $420
+   $196
+   
+   
+   80
+   $264
+   $62
+   $202
+   $480
+   $216
+   
+   
+   90
+   $324
+   $62
+   $262
+   $540
+   $216
+   
+   
+   100
+   $404
+   $62
+   $342
+   $600
+   $196
+   
+   
+
+  Table 
+  8.13
+   
+   
+
+
+
+553: Would independent trucking fit the characteristics of a perfectly competitive industry?
+  
+
+554: Firms in a perfectly competitive market are said to be “price takers”—that is, once the market determines an equilibrium price for the product, firms must accept this price. If you sell a product in a perfectly competitive market, but you are not happy with its price, would you raise the price, even by a cent?
+  
+
+555: Urban transit systems, especially those with rail systems, typically experience significant economies of scale in operation. Consider the transit system data in Table 11.4. Note that the quantity is in millions of riders.
+  
+
+Demand:
+ Quantity
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+
+
+
+Price
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+
+
+
+
+Marginal Revenue
+10
+8
+6
+4
+2
+0
+–2
+–4
+–6
+–8
+
+
+
+Costs:
+Marginal Cost
+9
+6
+5
+3
+2
+3
+4
+5
+7
+10
+
+
+
+
+Average Cost
+9
+7.5
+6.7
+5.8
+5
+4.7
+4.6
+4.6
+4.9
+5.4
+
+
+
+  Table 
+  11.4
+   
+   
+
+
+
+Draw the demand, marginal revenue, marginal cost, and average cost curves. Do they have the normal shapes?
+
+
+556: As a result of globalization and new information and communications technology, would you expect that the definitions of markets that antitrust authorities use will become broader or narrower?
+
+557: Why would a firm choose to use one or more of the anticompetitive practices described in Regulating Anticompetitive Behavior?
+
+558: Is it true that the four-firm concentration ratio puts more emphasis on one or two very large firms, while the Herfindahl-Hirschman Index puts more emphasis on all the firms in the entire market? Explain briefly.
+
+
+559: Some years ago, two intercity bus companies, Greyhound Lines, Inc. and Trailways Transportation System, wanted to merge. One possible definition of the market in this case was “the market for intercity bus service.” Another possible definition was “the market for intercity transportation, including personal cars, car rentals, passenger trains, and commuter air flights.” Which definition do you think the bus companies preferred, and why?
+
+
+560: Is it true that a merger between two firms that are not already in the top four by size can affect both the four-firm concentration ratio and the Herfindahl-Hirschman Index?
+Explain briefly.
+
+561: Here is a second hypothesis: A well-funded social safety net may lead to less regulation of the market economy. Explain why this might be so, and sketch a production possibility curve that shows this tradeoff.
+
+
+562: Are the following goods non-rival in consumption?
+slice of pizza
+laptop computer
+public radio
+ice cream cone
+
+
+
+563: Which of the following goods or services are nonexcludable?
+
+police protection
+streaming music from satellite transmission programs
+roads
+primary education
+cell phone service
+
+
+
+564: Which set of policies is more likely to cause a tradeoff between economic output and equality: policies of redistribution or policies aimed at the ladder of opportunity? Explain how the production possibility frontier tradeoff between economic equality and output might look in each case.
+
+
+565: Here is one hypothesis: A well-funded social safety net can increase economic equality but will reduce economic output. Explain why this might be so, and sketch a production possibility curve that shows this tradeoff.
+
+
+566: Using two demand and supply diagrams, one for the low-wage labor market and one for the high-wage labor market, explain how information technology can increase income inequality if it is a complement to high-income workers like salespeople and managers, but a substitute for low-income workers like file clerks and telephone receptionists.
+
+
+567: Using two demand and supply diagrams, one for the low-wage labor market and one for the high-wage labor market, explain how a program that increased educational levels for a substantial number of low-skill workers could reduce income inequality.
+
+
+568: Why is there reluctance on the part of some in the United States to redistribute income so that greater equality can be achieved?
+
+
+569: When residents in a neighborhood tidy it and keep it neat, there are a number of positive spillovers: higher property values, less crime, happier residents. What types of government policies can encourage neighborhoods to clean up?
+
+570: Education provides both private benefits to those who receive it and broader social benefits for the economy as a whole. Think about the types of policies a government can follow to address the issue of positive spillovers in technology and then suggest a parallel set of policies that governments could follow for addressing positive externalities in education.
+
+
+571: The Junkbuyers Company travels from home to home, looking for opportunities to buy items that would otherwise end up with the garbage, but which the company can resell or recycle. Which will be larger, the private or the social benefits?
+
+572: The Gizmo Company is planning to develop new household gadgets. Table 13.4 shows the company’s demand for financial capital for research and development of these gadgets, based on expected rates of return from sales. Now, say that every investment would have an additional 5% social benefit—that is, an investment that pays at least a 6% return to the Gizmo Company will pay at least an 11% return for society as a whole; an investment that pays at least 7% for the Gizmo Company will pay at least 12% for society as a whole, and so on. Answer the questions that follow based on this information.
+
+
+  
+Estimated Rate of ReturnPrivate profits of the firm from an R&D project (in $ millions)
+
+  
+10%$100
+9%$102
+8%$108
+7%$118
+6%$133
+5%$153
+4%$183
+3%$223
+
+
+  Table 
+  13.4
+   
+   
+
+
+
+
+If the going interest rate is 9%, how much will Gizmo invest in R&D if it receives only the private benefits of this investment?
+Assume that the interest rate is still 9%. How much will the firm invest if it also receives the social benefits of its investment? (Add an additional 5% return on all levels of investment.)
+
+
+
+573: Suppose that Sony's R&D investment in digital devices has increased profits by 20%. Is this a private or social benefit?
+
+574: A group of 10 people have the following annual incomes: $24,000, $18,000, $50,000, $100,000, $12,000, $36,000, $80,000, $10,000, $24,000, $16,000. Calculate the share of total income that each quintile receives from this income distribution. Do the top and bottom quintiles in this distribution have a greater or larger share of total income than the top and bottom quintiles of the U.S. income distribution?
+
+575: Do market demand curves reflect positive externalities? Why or why not?
+
+576: Table 14.13 shows information from the supply curve for labor for a monopsonist, that is, the wage rate required at each level of employment.
+    
+  
+  Labor
+    Wage
+  
+  
+    1
+    1
+  
+  
+    2
+    3
+  
+ 
+    3
+    5
+  
+ 
+    4
+    7
+  
+ 
+    5
+    8
+  
+ 
+    6
+    10
+  
+
+
+  Table 
+  14.13
+   
+   
+
+
+  What is the monopsonist’s marginal cost of labor at each level of employment?  
+  If each unit of labor’s marginal revenue product is $13, what is the firm’s profit maximizing level of employment and wage?
+
+
+577: Table 15.9 shows the share of income going to each quintile of the income distribution for the United Kingdom in 1979 and 1991. Use this data to calculate what the points on a Lorenz curve would be, and sketch the Lorenz curve. How did inequality in the United Kingdom shift over this time period? How can you see the patterns in the quintiles in the Lorenz curves?
+    
+  
+  
+
+Share of Income
+1979
+1991
+
+
+  
+
+Top quintile
+39.7%
+42.9%
+
+
+Fourth quintile
+24.8%
+22.7%
+
+
+Middle quintile
+17.0%
+16.3%
+
+
+Second quintile
+11.5%
+11.5%
+
+
+Bottom quintile
+7.0%
+6.6%
+
+
+
+  Table 
+  15.9
+   
+Income Distribution in the United Kingdom, 1979 and 1991
+
+   
+
+
+
+578: If immigration is reduced, what is the impact on the wage for low-skilled labor? Explain.
+
+
+579: Does the earnings gap between the average wages of females and the average wages of males prove labor market discrimination? Why or why not?
+
+
+580: Do countries with a higher percentage of unionized workers usually have less growth in productivity because of strikes and other disruptions caused by the unions? Why or why not?
+
+581: Explain in each of the following situations how market forces might give a business an incentive to act in a less discriminatory fashion.
+
+A local flower delivery business that had intentionally served only White customers notices that many of the local residents are Black.
+An assembly line has traditionally only hired men, but it is having a hard time hiring sufficiently qualified workers.
+A relationship counselor who had a strict policy of only serving straight couples notes the significant increase of LGBTQ people moving into the town.
+
+
+
+582: Are firms with a high percentage of union employees more likely to go bankrupt because of the higher wages that they pay? Why or why not?
+
+
+583: Compared with the share of workers in most other high-income countries, is the share of U.S. workers whose wages are determined by union bargaining higher or lower? Why or why not?
+
+
+584: Do unions typically oppose new technology out of a fear that it will reduce the number of union jobs? Why or why not?
+
+
+585: Jonathon is a single father with one child. He can work as a server for $6 per hour for up to 1,500 hours per year. He is eligible for welfare, and so if he does not earn any income, he will receive a total of $10,000 per year. He can work and still receive government benefits, but for every $1 of income, his welfare stipend is $1 less. Create a table similar to Table 15.4 that shows Jonathan’s options. Use four columns, the first showing number of hours to work, the second showing his earnings from work, the third showing the government benefits he will receive, and the fourth column showing his total income (earnings + government support). Sketch a labor-leisure diagram of Jonathan’s opportunity set with and without government support.
+
+586: Imagine that the government reworks the welfare policy that was affecting Jonathan in question 2, so that for each dollar someone like Jonathan earns at work, his government benefits diminish by only 30 cents. Reconstruct the table from question 2 to account for this change in policy. Draw Jonathan’s labor-leisure opportunity sets, both for before this welfare program is enacted and after it is enacted.
+
+
+587: We have discovered that the welfare system discourages recipients from working because the more income they earn, the less welfare benefits they receive. How does the earned income tax credit attempt to loosen the poverty trap?
+
+
+588: Table 14.10 shows levels of employment (Labor), the marginal product at each of those levels, and the price at which the firm can sell output in the perfectly competitive market where it operates.
+
+
+  
+  
+
+Labor
+Marginal Product of Labor
+Price of the Product
+
+
+  
+
+1
+10
+$4
+
+
+2
+8
+$4
+
+
+3
+7
+$4
+
+
+4
+5
+$4
+
+
+5
+3
+$4
+
+
+6
+1
+$4
+
+
+
+  Table 
+  14.10
+   
+   
+
+What is the value of the marginal product at each level of labor?
+If the firm operates in a perfectly competitive labor market where the going market wage is $12, what is the firm’s profit maximizing level of employment?
+
+
+589: Table 14.12 shows the quantity demanded and supplied in the labor market for driving city buses in the town of Unionville, where all the bus drivers belong to a union.
+
+
+
+  
+  
+
+Wage Per Hour
+Quantity of Workers Demanded
+Quantity of Workers Supplied
+
+
+  
+
+$14
+12,000
+6,000
+
+
+$16
+10,000
+7,000
+
+
+$18
+8,000
+8,000
+
+
+$20
+6,000
+9,000
+
+
+$22
+4,000
+10,000
+
+
+$24
+2,000
+11,000
+
+
+
+  Table 
+  14.12
+   
+   
+
+
+
+What would the equilibrium wage and quantity be in this market if no union existed?
+Assume that the union has enough negotiating power to raise the wage to $4 per hour higher than it would otherwise be. Is there now excess demand or excess supply of labor?
+
+
+
+590: Describe how each of these changes is likely to affect poverty and inequality:
+Incomes rise for low-income and high-income workers, but rise more for the high-income earners.
+Incomes fall for low-income and high-income workers, but fall more for high-income earners.
+
+
+
+591: How does the TANF attempt to loosen the poverty trap?
+
+
+592: Table 14.11 shows levels of employment (Labor), the marginal product at each of those levels, and a monopoly’s marginal revenue.
+
+
+  
+  
+
+Labor
+Marginal Product of Labor
+Price of the Product
+
+
+  
+
+1
+10
+$10
+
+
+2
+8
+$7
+
+
+3
+7
+$5
+
+
+4
+5
+$4
+
+
+5
+3
+$2
+
+
+6
+1
+$1
+
+
+
+  Table 
+  14.11
+   
+   
+
+What is the monopoly’s marginal revenue product at each level of employment?
+If the monopoly operates in a perfectly competitive labor market where the going market wage is $20, what is the firm’s profit maximizing level of employment?
+
+
+593: If you receive $500 in simple interest on a loan that you made for $10,000 for five years, what was the interest rate you charged?
+
+594: You open a 5-year CD for $1,000 that pays 2% interest, compounded annually. What is the value of that CD at the end of the five years?
+
+595: What is the total amount of interest from a $5,000 loan after three years with a simple interest rate of 6%?
+
+596: Investors sometimes fear that a high-risk investment is especially likely to have low returns. Is this fear true? Does a high risk mean the return must be low?
+  
+
+597: Calculate the equity each of these people has in their home:
+  Eva just bought a house for $200,000 by putting 10% as a down payment and borrowing the rest from the bank.
+  Freda bought a house for $150,000 in cash, but if she were to sell it now, it would sell for $250,000.
+  Ben bought a house for $100,000. He put 20% down and borrowed the rest from the bank. However, the value of the house has now increased to $160,000 and he has paid off $20,000 of the bank loan.
+  
+  
+
+598: From a firm’s point of view, how is a bond similar to a bank loan? How are they different?
+                    
+
+599: Answer these three questions about early-stage corporate finance:
+    
+    Why do very small companies tend to raise money from private investors instead of through an IPO?
+    Why do small, young companies often prefer an IPO to borrowing from a bank or issuing bonds?
+    Who has better information about whether a small firm is likely to earn profits, a venture capitalist or a potential bondholder, and why?
+    
+    
+
+600: Why is it difficult to measure health outcomes?
+
+
+601: For each of the following purchases, say whether you would expect the degree of imperfect information to be relatively high or relatively low:
+Buying apples at a roadside stand
+Buying dinner at the neighborhood restaurant around the corner
+Buying a used laptop computer at a garage sale
+Ordering flowers over the internet for your friend in a different city
+
+
+602: Why is there asymmetric information in the labor market? What signals can an employer look for that might indicate the traits they are seeking in a new employee?
+
+
+603: Which has a higher average return over time: stocks, bonds, or a savings account? Explain your answer.
+  
+
+604: Is it possible for GDP to rise while at the same time per capita GDP is falling? Is it possible for GDP to fall while per capita GDP is rising?
+      
+
+605: According to Table 19.7, how long has the average expansion lasted since the end of World War II?
+      
+
+606: The Central African Republic has a GDP of 1,107,689 million CFA francs and a population of 4.862 million. The exchange rate is 284.681CFA francs per dollar. Calculate the GDP per capita of Central African Republic.
+      
+
+607: Explain briefly whether each of the following would cause GDP to overstate or understate the degree of change in the broad standard of living.
+        
+          The environment becomes dirtier
+          The crime rate declines
+          A greater variety of goods become available to consumers
+          Infant mortality declines
+        
+      
+
+608: Suppose there is an election for Soft Drink Commissioner. The field consists of one candidate from the Pepsi party and four from the Coca-Cola party. This would seem to indicate a strong preference for Coca-Cola among the voting population, but the Pepsi candidate ends up winning in a landslide. Why does this happen?
+
+609: According to Table 19.7, how long has the average recession lasted since the end of World War II?
+      
+
+610: What is the cost of voting in an election?
+      
+
+611: According to Table 19.7, how often have recessions occurred since the end of World War II (1945)?
+      
+
+612: True or false: Majority rule can fail to produce a single preferred outcome when there are more than two choices.
+      
+
+613: Why might legislators vote to impose a tariff on Egyptian cotton, when consumers in their districts would benefit from its availability?
+      
+
+614: What is the main factor preventing a large community from influencing policy in the same way as a special interest group?
+      
+
+615: Anastasia, Emma, and Greta are deciding what to do on a weekend getaway. They each suggest a first, second, and third choice and then vote on the options. Table 18.2 shows their first, second, and third choice preferences . Explain why they will have a hard time reaching a decision. Does the group prefer mountain biking to canoeing? What about canoeing compared to the beach? What about the beach compared to the original choice of mountain biking?
+  
+  
+  
+  
+  
+    Anastasia
+    Emma
+    Greta
+  
+  
+  
+  
+          
+            First Choice
+            Beach
+            Mountain biking
+            Canoeing
+          
+  
+          
+            Second Choice
+            Mountain biking
+            Canoeing
+            Beach
+          
+          
+            Third Choice
+            Canoeing
+            Beach
+            Mountain biking
+          
+  
+
+  Table 
+  18.2
+   
+   
+
+
+
+616: Based on the theory of rational ignorance, what should we expect to happen to voter turnout as the internet makes information easier to obtain?
+
+617: Without looking at Table 19.7, return to Figure 19.10. If we define a recession as a significant decline in national output, can you identify any post-1960 recessions in addition to the 2008-2009 recession? (This requires a judgment call.)
+
+618: Country A has export sales of $20 billion, government purchases of $1,000 billion, business investment is $50 billion, imports are $40 billion, and consumption spending is $2,000 billion. What is the dollar value of GDP?
+      
+
+619: Using data from Table 19.5 how much of the nominal GDP growth from 1980 to 1990 was real GDP and how much was inflation?
+      
+
+620: Which of the following are included in GDP, and which are not?
+        The cost of hospital stays
+          The rise in life expectancy over time
+          Child care provided by a licensed day care center
+          Child care provided by a grandmother
+          A used car sale
+          A new car sale
+          The greater variety of cheese available in supermarkets
+          The iron that goes into the steel that goes into a refrigerator bought by a consumer.
+        
+      
+
+621: Imagine a monopolist could charge a different price to every customer based on how much the customer is willing to pay. How would this affect monopoly profits?
+
+
+622: If Congress reduced the period of patent protection from 20 years to 10 years, what would likely happen to the amount of private research and development?
+
+
+623: Suppose the local electrical utility, a legal monopoly based on economies of scale, was split into four firms of equal size, with the idea that eliminating the monopoly would promote competitive pricing of electricity. What do you anticipate would happen to prices?
+
+
+624: Consider the curve in the figure below, which shows the market demand, marginal cost, and marginal revenue curve for firms in an oligopolistic industry. In this example, we assume firms have zero fixed costs.
+
+
+
+
+
+  Figure 
+10.6
+
+
+
+  
+  
+Suppose the firms collude to form a cartel. What price will the cartel charge? What quantity will the cartel supply? How much profit will the cartel earn?
+Suppose now that the cartel breaks up and the oligopolistic firms compete as vigorously as possible by cutting the price and increasing sales. What will be the industry quantity and price? What will be the collective profits of all firms in the industry?
+Compare the equilibrium price, quantity, and profit for the cartel and cutthroat competition outcomes.
+
+
+625: Continuing with the scenario in question 1, in the long run, the positive economic profits that the monopolistic competitor earns will attract a response either from existing firms in the industry or firms outside. As those firms capture the original firm’s profit, what will happen to the original firm’s profit-maximizing price and output levels?
+
+626: Suppose that, due to a successful advertising campaign, a monopolistic competitor experiences an increase in demand for its product. How will that affect the price it charges and the quantity it supplies?
+
+
+627: Sometimes oligopolies in the same industry are very different in size. Suppose we have a duopoly where one firm (Firm A) is large and the other firm (Firm B) is small, as the prisoner’s dilemma box in Table 10.4 shows.
+
+
+  
+  
+
+
+Firm B colludes with Firm A
+Firm B cheats by selling more output
+
+
+
+
+Firm A colludes with Firm B
+A gets $1,000, B gets $100
+A gets $800, B gets $200
+
+
+Firm A cheats by selling more output
+A gets $1,050, B gets $50
+A gets $500, B gets $20
+
+
+
+  Table 
+  10.4
+   
+   
+
+
+
+
+
+Assuming that both firms know the payoffs, what is the likely outcome in this case?
+
+628: Suppose demand for a monopoly’s product falls so that its profit-maximizing price is below average variable cost. How much output should the firm supply? Hint: Draw the graph.
+
+
+629: Classify the following as a government-enforced barrier to entry, a barrier to entry that is not government-enforced, or a situation that does not involve a barrier to entry.
+      
+        A city passes a law on how many licenses it will issue for taxicabs
+        A city passes a law that all taxicab drivers must pass a driving safety test and have insurance
+        A well-known trademark
+        Owning a spring that offers very pure water 
+        An industry where economies of scale are very large compared to the size of demand in the market
+      
+
+
+630: Classify the following as a government-enforced barrier to entry, a barrier to entry that is not government-enforced, or a situation that does not involve a barrier to entry.
+      
+        A patented invention
+        A popular but easily copied restaurant recipe
+        An industry where economies of scale are very small compared to the size of demand in the market
+        A well-established reputation for slashing prices in response to new entry
+        A well-respected brand name that has been carefully built up over many years
+      
+
+    
+
+631: From the graph you drew to answer Exercise 11.6, would you say this transit system is a natural monopoly? Justify.
+
+
+632: What are some of the benefits of the deregulation?
+
+
+633: What real-world changes made the deregulation possible?
+
+634: Why would a firm choose to use one or more of the anticompetitive practices described in Regulating Anticompetitive Behavior?
+
+635: Urban transit systems, especially those with rail systems, typically experience significant economies of scale in operation. Consider the transit system data in Table 11.4. Note that the quantity is in millions of riders.
+  
+
+Demand:
+ Quantity
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+
+
+
+Price
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+
+
+
+
+Marginal Revenue
+10
+8
+6
+4
+2
+0
+–2
+–4
+–6
+–8
+
+
+
+Costs:
+Marginal Cost
+9
+6
+5
+3
+2
+3
+4
+5
+7
+10
+
+
+
+
+Average Cost
+9
+7.5
+6.7
+5.8
+5
+4.7
+4.6
+4.6
+4.9
+5.4
+
+
+
+  Table 
+  11.4
+   
+   
+
+
+
+Draw the demand, marginal revenue, marginal cost, and average cost curves. Do they have the normal shapes?
+
+
+636: As a result of globalization and new information and communications technology, would you expect that the definitions of markets that antitrust authorities use will become broader or narrower?
+
+637: A country called Sherwood is very heavily covered with a forest of 50,000 trees. There are proposals to clear some of Sherwood’s forest and grow corn, but obtaining this additional economic output will have an environmental cost from reducing the number of trees. Table 12.11 shows possible combinations of economic output and environmental protection.
+
+
+  
+  
+
+Combos
+Corn Bushels (thousands)
+Number of Trees (thousands)
+
+
+  
+
+P
+9
+5
+
+
+Q
+2
+30
+
+
+R
+7
+20
+
+
+S
+2
+40
+
+
+T
+6
+10
+
+
+
+  Table 
+  12.11
+   
+   
+
+
+
+Sketch a graph of a production possibility frontier with environmental quality on the horizontal axis, measured by the number of trees, and the quantity of economic output, measured in corn, on the vertical axis.
+Which choices display productive efficiency? How can you tell?
+Which choices show allocative efficiency? How can you tell?
+In the choice between T and R, decide which one is better. Why?
+In the choice between T and S, can you say which one is better, and why?
+If you had to guess, which choice would you think is more likely to represent a command-and-control environmental policy and which choice is more likely to represent a market-oriented environmental policy, choice Q or S? Why?
+
+
+
+638: The rows in Table 12.7 show three market-oriented tools for reducing pollution. The columns of the table show three complaints about command-and-control regulation. Fill in the table by stating briefly how each market-oriented tool addresses each of the three concerns.
+
+
+  
+  
+
+
+Incentives to Go Beyond
+Flexibility about Where and How Pollution Will Be Reduced
+Political Process Creates Loopholes and Exceptions
+
+
+  
+
+Pollution Charges
+
+
+
+
+
+Marketable Permits
+
+
+
+
+
+Property Rights
+
+
+
+
+
+
+
+  Table 
+  12.7
+   
+   
+
+
+
+
+
+639: What might some of the negatives of deregulation be?
+
+
+640: The state of Colorado requires oil and gas companies who use fracking techniques to return the land to its original condition after the oil and gas extractions. Table 12.9 shows the total cost and total benefits (in dollars) of this policy.
+
+  
+  
+
+Land Restored (in acres)
+Total Cost
+Total Benefit
+
+
+  
+
+0
+$0
+$0
+
+
+100
+$20
+$140
+
+
+200
+$80
+$240
+
+
+300
+$160
+$320
+
+
+400
+$280
+$380
+
+
+
+  Table 
+  12.9
+   
+   
+
+
+Calculate the marginal cost and the marginal benefit at each quantity (acre) of land restored. See Production, Costs and Industry Structure if you need a refresher on how to calculate marginal costs and benefits.
+
+
+If we apply marginal analysis, what is the optimal amount of land to be restored?
+
+
+641: Four firms called Elm, Maple, Oak, and Cherry, produce wooden chairs. However, they also produce a great deal of garbage (a mixture of glue, varnish, sandpaper, and wood scraps). The first row of Table 12.6 shows the total amount of garbage (in tons) that each firm currently produces. The other rows of the table show the cost of reducing garbage produced by the first five tons, the second five tons, and so on. First, calculate the cost of requiring each firm to reduce the weight of its garbage by one-fourth. Now, imagine that the government issues marketable permits for the current level of garbage, but the permits will shrink the weight of allowable garbage for each firm by one-fourth. What will be the result of this alternative approach to reducing pollution?
+  
+
+
+Elm
+Maple
+Oak
+Cherry
+
+
+  
+
+Current production of garbage (in tons)
+20
+40
+60
+80
+
+
+Cost of reducing garbage by first five tons
+$5,500
+$6,300
+$7,200
+$3,000
+
+
+Cost of reducing garbage by second five tons
+$6,000
+$7,200
+$7,500
+$4,000
+
+
+Cost of reducing garbage by third five tons
+$6,500
+$8,100
+$7,800
+$5,000
+
+
+Cost of reducing garbage by fourth five tons
+$7,000
+$9,000
+$8,100
+$6,000
+
+
+Cost of reducing garbage by fifth five tons
+$0
+$9,900
+$8,400
+$7,000
+
+
+
+  Table 
+  12.6
+   
+   
+
+
+
+642: Consider the case of global environmental problems that spill across international borders as a prisoner’s dilemma of the sort studied in Monopolistic Competition and Oligopoly. Say that there are two countries, A and B. Each country can choose whether to protect the environment, at a cost of 10, or not to protect it, at a cost of zero. If one country decides to protect the environment, there is a benefit of 16, but the benefit is divided equally between the two countries. If both countries decide to protect the environment, there is a benefit of 32, which is divided equally between the two countries.In Table 12.10, fill in the costs, benefits, and total payoffs to the countries of the following decisions. Explain why, without some international agreement, they are likely to end up with neither country acting to protect the environment.
+
+
+
+
+Country B
+
+
+
+Protect
+Not Protect
+
+
+
+Country A
+Protect
+
+
+
+
+
+Not Protect
+
+
+
+
+  Table 
+  12.10
+   
+   
+
+
+
+
+
+
+643: Suppose a city releases 16 million gallons of raw sewage into a nearby lake. Table 12.8 shows the total costs of cleaning up the sewage to different levels, together with the total benefits of doing so. (Benefits include environmental, recreational, health, and industrial benefits.)
+
+
+  
+
+
+Total Cost (in thousands of dollars)
+Total Benefits (in thousands of dollars)
+
+
+  
+
+16 million gallons
+Current situation
+Current situation
+
+
+12 million gallons
+ 50
+ 800
+
+
+8 million gallons
+150
+1300
+
+
+4 million gallons
+500
+1650
+
+
+0 gallons
+1200
+1900
+
+
+
+  Table 
+  12.8
+   
+   
+
+Using the information in Table 12.8, calculate the marginal costs and marginal benefits of reducing sewage emissions for this city. See Production, Costs and Industry Structure if you need a refresher on how to calculate marginal costs.
+
+
+
+What is the optimal level of sewage for this city?
+Why not just pass a law that firms can emit zero sewage? After all, the total benefits of zero emissions exceed the total costs.
+
+
+644: An emissions tax on a quantity of emissions from a firm is not a command-and-control approach to reducing pollution. Why? 
+
+
+645: Identify whether the market supply curve will shift right or left or will stay the same for the following:
+Firms in an industry are required to pay a fine for their carbon dioxide emissions.
+Companies are sued for polluting the water in a river.
+Power plants in a specific city are not required to address the impact of their air quality emissions. 
+Companies that use fracking to remove oil and gas from rock are required to clean up the damage.
+
+
+
+646: Is it true that the four-firm concentration ratio puts more emphasis on one or two very large firms, while the Herfindahl-Hirschman Index puts more emphasis on all the firms in the entire market? Explain briefly.
+
+
+647: Is it true that a merger between two firms that are not already in the top four by size can affect both the four-firm concentration ratio and the Herfindahl-Hirschman Index?
+Explain briefly.
+
+648: For each of your answers to Exercise 12.2, will equilibrium price rise or fall or stay the same?
+
+649: Table 12.5 provides the supply and demand conditions for a manufacturing firm. The third column represents a supply curve without accounting for the social cost of pollution. The fourth column represents the supply curve when the firm is required to account for the social cost of pollution. Identify the equilibrium before the social cost of production is included and after the social cost of production is included.
+  
+  
+
+Price
+Quantity Demanded
+Quantity Supplied without paying the cost of the pollution
+Quantity Supplied after paying the cost of the pollution
+
+
+  
+
+$10
+450
+400
+250
+
+
+$15
+440
+440
+290
+
+
+$20
+430
+480
+330
+
+
+$25
+420
+520
+370
+
+
+$30
+410
+560
+410
+
+
+
+  Table 
+  12.5
+   
+   
+
+
+
+
+650: Some years ago, two intercity bus companies, Greyhound Lines, Inc. and Trailways Transportation System, wanted to merge. One possible definition of the market in this case was “the market for intercity bus service.” Another possible definition was “the market for intercity transportation, including personal cars, car rentals, passenger trains, and commuter air flights.” Which definition do you think the bus companies preferred, and why?
+
+
+651: Consider two approaches to reducing emissions of CO2 into the environment from manufacturing industries in the United States. In the first approach, the U.S. government makes it a policy to use only predetermined technologies. In the second approach, the U.S. government determines which technologies are cleaner and subsidizes their use. Of the two approaches, which is the command-and-control policy?
+
+652: Classify the following pollution-control policies as command-and-control or market incentive based.
+
+A state emissions tax on the quantity of carbon emitted by each firm.
+The federal government requires domestic auto companies to improve car emissions by 2020.
+The EPA sets national standards for water quality.
+A city sells permits to firms that allow them to emit a specified quantity of pollution.
+The federal government pays fishermen to preserve salmon.
+
+
+
+653: Identify the following situations as an example of a negative or a positive externality: 
+
+You are a birder (bird watcher), and your neighbor has put up several birdhouses in the yard as well as planting trees and flowers that attract birds. 
+Your neighbor paints his house a hideous color.  
+Investments in private education raise your country’s standard of living.
+Trash dumped upstream flows downstream right past your home. 
+Your roommate is a smoker, but you are a nonsmoker. 
+
+
+
+654: If new technology in a perfectly competitive market brings about a substantial reduction in costs of production, how will this affect the market?
+  
+
+655: Explain how the profit-maximizing rule of setting P = MC leads a perfectly competitive market to be allocatively efficient.
+  
+
+656: A market in perfect competition is in long-run equilibrium. What happens to the market if labor unions are able to increase wages for workers?
+  
+
+657: Take Jeremy’s total utility information in Exercise 6.1, and use the marginal utility approach to confirm the choice of phone minutes and round trips that maximize Jeremy’s utility.
+  
+
+658: Productive efficiency and allocative efficiency are two concepts achieved in the long run in a perfectly competitive market. These are the two reasons why we call them “perfect.” How would you use these two concepts to analyze other market structures and label them “imperfect?”
+  
+
+659: As a college student you work at a part-time job, but your parents also send you a monthly “allowance.” Suppose one month your parents forgot to send the check. Show graphically how your budget constraint is affected. Assuming you only buy normal goods, what would happen to your purchases of goods? 
+  
+
+660: Jeremy is deeply in love with Jasmine. Jasmine lives where cell phone coverage is poor, so he can either call her on the land-line phone for five cents per minute or he can drive to see her, at a round-trip cost of $2 in gasoline money. He has a total of $10 per week to spend on staying in touch. To make his preferred choice, Jeremy uses a handy utilimometer that measures his total utility from personal visits and from phone minutes. Using the values in Table 6.6, figure out the points on Jeremy’s consumption choice budget constraint (it may be helpful to do a sketch) and identify his utility-maximizing point.
+  
+  
+  
+  Round Trips
+  Total Utility
+  Phone Minutes
+  Total Utility
+  
+  
+  
+  
+  0
+     0
+     0
+       0
+  
+  
+  
+  1
+   80
+    20
+    200
+  
+  
+  
+  2
+  150
+    40
+    380
+  
+  
+  
+  3
+  210
+    60
+    540
+  
+  
+  
+  4
+  260
+    80
+    680
+  
+  
+  
+  5
+  300
+  100
+    800
+  
+  
+  
+  6
+  330
+  120
+    900
+  
+  
+  
+  7
+  200
+  140
+    980
+  
+  
+  
+  8
+  180
+  160
+  1040
+  
+  
+  
+  9
+  160
+  180
+  1080
+  
+  
+  
+  10
+  140
+  200
+  1100
+  
+  
+
+  Table 
+  6.6
+   
+   
+
+
+
+661: A firm’s marginal cost curve above the average variable cost curve is equal to the firm’s individual supply curve. This means that every time a firm receives a price from the market it will be willing to supply the amount of output where the price equals marginal cost. What happens to the firm’s individual supply curve if marginal costs increase?
+   
+
+662: Explain all the reasons why a decrease in a product's price would lead to an increase in purchases. 
+
+663: The WipeOut Ski Company manufactures skis for beginners. Fixed costs are $30. Fill in Table 7.16 for total cost, average variable cost, average total cost, and marginal cost.
+  
+  
+  
+  
+    Quantity
+    Variable Cost
+    Fixed Cost
+    Total Cost
+    Average Variable Cost
+    Average Total Cost
+    Marginal Cost
+  
+  
+  
+          
+            0
+            0
+            $30
+            
+            
+            
+            
+          
+  
+          
+            1
+            $10
+            $30
+            
+            
+            
+            
+          
+  
+          
+            2
+            $25
+            $30
+            
+            
+            
+            
+          
+  
+          
+            3
+            $45
+            $30
+            
+            
+            
+            
+          
+  
+          
+            4
+            $70
+            $30
+            
+            
+            
+            
+          
+  
+          
+            5
+            $100
+            $30
+            
+            
+            
+            
+          
+  
+          
+            6
+            $135
+            $30
+            
+            
+            
+            
+          
+  
+  
+        
+
+  Table 
+  7.16
+   
+   
+
+
+      
+
+664: Explain in words why a profit-maximizing firm will not choose to produce at a quantity where marginal cost exceeds marginal revenue.
+   
+
+665: Automobile manufacturing is an industry subject to significant economies of scale. Suppose there are four domestic auto manufacturers, but the demand for domestic autos is no more than 2.5 times the quantity produced at the bottom of the long-run average cost curve. What do you expect will happen to the domestic auto industry in the long run?
+    
+
+666: Suppose the cost of machines increases to $55, while the cost of labor stays at $40. How would that affect the total cost of the three methods? Which method should the firm choose now?
+    
+
+667: Return to the problem explained in Table 7.13 and Table 7.14. If the cost of labor remains at $40, but the cost of a machine decreases to $50, what would be the total cost of each method of production? Which method should the firm use, and why?
+    
+
+668: If two painters can paint 200 square feet of wall in an hour, and three painters can paint 275 square feet, what is the marginal product of the third painter?
+
+    
+
+669: Select the correct answer. A price ceiling will usually shift:
+
+demand
+supply
+both
+neither
+
+
+
+670: Select the correct answer. A price floor will usually shift:
+
+demand
+supply
+both
+neither
+
+Illustrate your answer with a diagram.
+
+
+671: A price ceiling will have the largest effect:
+
+substantially below the equilibrium price 
+slightly below the equilibrium price 
+substantially above the equilibrium price 
+slightly above the equilibrium price 
+
+Sketch all four of these possibilities on a demand and supply diagram to illustrate your answer.
+
+
+672: In the financial market, what causes a movement along the demand curve? What causes a shift in the demand curve?
+
+
+673: In the financial market, what causes a movement along the supply curve? What causes a shift in the supply curve?
+
+
+674: Which of the following changes in the financial market will lead to an increase in the quantity of loans made and received:
+
+a rise in demand
+a fall in demand
+a rise in supply
+a fall in supply
+
+
+
+675: Which of the following changes in the financial market will lead to a decline in interest rates:
+
+a rise in demand
+a fall in demand
+a rise in supply
+a fall in supply
+
+
+
+676: If a usury law limits interest rates to no more than 35%, what would the likely impact be on the amount of loans made and interest rates paid?
+
+
+677: Identify the most accurate statement. A price floor will have the largest effect if it is set:
+
+substantially above the equilibrium price
+slightly above the equilibrium price
+slightly below the equilibrium price
+substantially below the equilibrium price
+
+Sketch all four of these possibilities on a demand and supply diagram to illustrate your answer.
+
+
+678: Based on your answers to the WipeOut Ski Company in Exercise 7.3, now imagine a situation where the firm produces a quantity of 5 units that it sells for a price of $25 each.
+          What will be the company’s profits or losses?
+          How can you tell at a glance whether the company is making or losing money at this price by looking at average cost?
+          At the given quantity and price, is the marginal unit produced adding to profits?
+        
+  
+      
+
+679: In the labor market, what causes a movement along the demand curve? What causes a shift in the demand curve?
+
+
+680: In the labor market, what causes a movement along the supply curve? What causes a shift in the supply curve?
+
+
+681: The federal government decides to require that automobile manufacturers install new anti-pollution equipment that costs $2,000 per car. Under what conditions can carmakers pass almost all of this cost along to car buyers? Under what conditions can carmakers pass very little of this cost along to car buyers?
+  
+
+682: Suppose you are in charge of sales at a pharmaceutical company, and your firm has a new drug that causes bald men to grow hair. Assume that the company wants to earn as much revenue as possible from this drug. If the elasticity of demand for your company’s product at the current price is 1.4, would you advise the company to raise the price, lower the price, or to keep the price the same? What if the elasticity were 0.6? What if it were 1? Explain your answer.
+  
+
+683: What would the gasoline price elasticity of supply mean to UPS or FedEx?
+  
+
+684: The average annual income rises from $25,000 to $38,000, and the quantity of bread consumed in a year by the average person falls from 30 loaves to 22 loaves. What is the income elasticity of bread consumption? Is bread a normal or an inferior good?
+  
+
+685: Suppose the cross-price elasticity of apples with respect to the price of oranges is 0.4, and the price of oranges falls by 3%. What will happen to the demand for apples? 
+  
+
+686: Why is a living wage considered a price floor? Does imposing a living wage have the same outcome as a minimum wage?
+
+
+687: Why is the supply curve with constant unitary elasticity a straight line? 
+  
+
+688: Why is the demand curve with constant unitary elasticity concave?
+  
+
+689: Look at Table 8.13. What would happen to the firm’s profits if the market price increases to $6 per pack of raspberries?
+   
+  
+   
+   Quantity
+   Total Cost
+   Fixed Cost
+   Variable Cost
+   Total Revenue
+   Profit
+   
+   
+  
+   
+   0
+   $62
+   $62
+   -
+   $0
+   −$62
+   
+   
+   10
+   $90
+   $62
+   $28
+   $60
+   −$30
+   
+   
+   20
+   $110
+   $62
+   $48
+   $120
+   $10
+   
+   
+   30
+   $126
+   $62
+   $64
+   $180
+   $54
+   
+   
+   40
+   $144
+   $62
+   $82
+   $240
+   $96
+   
+   
+   50
+   $166
+   $62
+   $104
+   $300
+   $134
+   
+   
+   60
+   $192
+   $62
+   $130
+   $360
+   $168
+   
+   
+   70
+   $224
+   $62
+   $162
+   $420
+   $196
+   
+   
+   80
+   $264
+   $62
+   $202
+   $480
+   $216
+   
+   
+   90
+   $324
+   $62
+   $262
+   $540
+   $216
+   
+   
+   100
+   $404
+   $62
+   $342
+   $600
+   $196
+   
+   
+
+  Table 
+  8.13
+   
+   
+
+
+
+690: Suppose that the market price increases to $6, as Table 8.14 shows. What would happen to the profit-maximizing output level?
+  
+   
+   Quantity
+   Total Cost
+   Fixed Cost
+   Variable Cost
+   Marginal Cost
+   Total Revenue
+   Marginal Revenue
+   
+   
+  
+   
+   0
+   $62
+   $62
+   -
+   -
+   $0
+   -
+   
+   
+   10
+   $90
+   $62
+   $28
+   $2.80
+   $60
+   $6.00
+   
+   
+   20
+   $110
+   $62
+   $48
+   $2.00
+   $120
+   $6.00
+   
+   
+   30
+   $126
+   $62
+   $64
+   $1.60
+   $180
+   $6.00
+   
+   
+   40
+   $144
+   $62
+   $82
+   $1.80
+   $240
+   $6.00
+   
+   
+   50
+   $166
+   $62
+   $104
+   $2.20
+   $300
+   $6.00
+   
+   
+   60
+   $192
+   $62
+   $130
+   $2.60
+   $360
+   $6.00
+   
+   
+   70
+   $224
+   $62
+   $162
+   $3.20
+   $420
+   $6.00
+   
+   
+   80
+   $264
+   $62
+   $202
+   $4.00
+   $480
+   $6.00
+   
+   
+   90
+   $324
+   $62
+   $262
+   $6.00
+   $540
+   $6.00
+   
+   
+   100
+   $404
+   $62
+   $342
+   $8.00
+   $600
+   $6.00
+   
+   
+
+  Table 
+  8.14
+   
+   
+
+
+
+691: From the data in Table 5.5 about demand for smart phones, calculate the price elasticity of demand from: point B to point C, point D to point E, and point G to point H. Classify the elasticity at each point as elastic, inelastic, or unit elastic.
+  
+  
+  
+  
+    Points
+    P
+    Q
+  
+  
+  
+          
+            A
+            60
+            3,000
+          
+  
+          
+            B
+            70
+            2,800
+          
+  
+          
+            C
+            80
+            2,600 
+          
+  
+          
+            D
+            90
+             2,400
+          
+  
+          
+            E 
+            100
+            2,200
+          
+  
+          
+            F 
+            110
+            2,000 
+          
+  
+          
+            G 
+            120
+            1,800
+          
+  
+          
+            H 
+            130
+  1,600
+          
+        
+
+  Table 
+  5.5
+   
+   
+
+
+  
+  
+  
+  
+  
+  
+
+692: From the data in Table 5.6 about supply of alarm clocks, calculate the price elasticity of supply from: point J to point K, point L to point M, and point N to point P. Classify the elasticity at each point as elastic, inelastic, or unit elastic.
+  
+  
+    Point
+    Price
+    Quantity Supplied
+  
+  
+  
+  
+  
+          J 
+           $8
+          50 
+   
+  
+  
+           K
+          $9 
+          70 
+   
+  
+  
+          L 
+          $10 
+          80 
+   
+  
+  
+           M
+          $11 
+          88 
+   
+  
+  
+           N
+          $12 
+          95 
+   
+  
+  
+          P 
+           $13
+           100
+   
+  
+
+  Table 
+  5.6
+   
+   
+
+
+  
+
+693: Would independent trucking fit the characteristics of a perfectly competitive industry?
+  
+
+694: Continuing from Exercise 7.1, the firm’s factory sits on land owned by the firm that it could rent for $30,000 per year. What was the firm’s economic profit last year? 
+
+695: A firm had sales revenue of $1 million last year. It spent $600,000 on labor, $150,000 on capital and $200,000 on materials. What was the firm’s accounting profit? 
+      
+
+696: Firms in a perfectly competitive market are said to be “price takers”—that is, once the market determines an equilibrium price for the product, firms must accept this price. If you sell a product in a perfectly competitive market, but you are not happy with its price, would you raise the price, even by a cent?
+  
+
+697: Would a research study on the effects of soft drink consumption on children’s cognitive development be a positive or normative statement?
+
+698: In an analysis of the market for paint, an economist discovers the facts listed below. State whether each of these changes will affect supply or demand, and in what direction.
+
+There have recently been some important cost-saving inventions in the technology for making paint.
+Paint is lasting longer, so that property owners need not repaint as often.
+Because of severe hailstorms, many people need to repaint now.
+
+The hailstorms damaged several factories that make paint, forcing them to close down for several months.
+
+
+699: Why do economists use the ceteris paribus assumption?
+
+
+700: What are the similarities between a consumer’s budget constraint and society’s production possibilities frontier, not just graphically but analytically?
+
+
+701: Individuals may not act in the rational, calculating way described by the economic model of decision making, measuring utility and costs at the margin, but can you make a case that they behave approximately that way?
+
+
+702: Would an op-ed piece in a newspaper urging the adoption of a particular economic policy be a positive or normative statement?
+
+703: Review Figure 3.4. Suppose the price of gasoline is $1.60 per gallon. Is the quantity demanded higher or lower than at the equilibrium price of $1.40 per gallon? What about the quantity supplied? Is there a shortage or a surplus in the market? If so, how much?
+
+704: Could a nation be producing in a way that is allocatively efficient, but productively inefficient?
+
+
+705: Return to the example in Figure 2.4. Suppose there is an improvement in medical technology that enables more healthcare with the same amount of resources. How would this affect the production possibilities curve and, in particular, how would it affect the opportunity cost of education?
+
+706: If a price floor benefits producers, why does a price floor reduce social surplus?
+    
+
+707: What would be the impact of imposing a price floor below the equilibrium price?
+    
+
+708: Does a price ceiling increase or decrease the number of transactions in a market? Why? What about a price floor?
+    
+
+709: Does a price ceiling change the equilibrium price?
+    
+
+710: Suppose Alphonso’s town raised the price of bus tickets from $0.50 per trip to $1 per trip (while the price of burgers stayed at $2 and his budget remained $10 per week.) Draw Alphonso’s new budget constraint. What happens to the opportunity cost of bus tickets?
+
+711: A tariff is a tax on imported goods. Suppose the U.S. government cuts the tariff on imported flat screen televisions. Using the four-step analysis, how do you think the tariff reduction will affect the equilibrium price and quantity of flat screen TVs?
+    
+
+712: What is the effect of a price ceiling on the quantity demanded of the product? What is the effect of a price ceiling on the quantity supplied? Why exactly does a price ceiling cause a shortage?
+    
+
+713: Many changes are affecting the market for oil. Predict how each of the following events will affect the equilibrium price and quantity in the market for oil. In each case, state how the event will affect the supply and demand diagram. Create a sketch of the diagram if necessary.
+
+Cars are becoming more fuel efficient, and therefore get more miles to the gallon.
+The winter is exceptionally cold.
+A major discovery of new oil is made off the coast of Norway.
+The economies of some major oil-using nations, like Japan, slow down.
+A war in the Middle East disrupts oil-pumping schedules.
+Landlords install additional insulation in buildings.
+The price of solar energy falls dramatically.
+Chemical companies invent a new, popular kind of plastic made from oil.
+
+
+
+714: Let’s think about the market for air travel. From August 2014 to January 2015, the price of jet fuel increased roughly 47%. Using the four-step analysis, how do you think this fuel price increase affected the equilibrium price and quantity of air travel?
+
+715: A computer systems engineer could paint her house, but it makes more sense for her to hire a painter to do it. Explain why. 
+
+716: Why might Belgium, France, Italy, and Sweden have a higher export to GDP ratio than the United States? 
+    
+
+717: Suppose we extend the circular flow model to add imports and exports. Copy the circular flow diagram onto a sheet of paper and then add a foreign country as a third agent. Draw a rough sketch of the flows of imports, exports, and the payments for each on your diagram. 
+    
+
+718: The chapter defines private enterprise as a characteristic of market-oriented economies. What would public enterprise be? Hint: It is a characteristic of command economies. 
+    
+
+719: A consultant works for $200 per hour. She likes to eat vegetables, but is not very good at growing them. Why does it make more economic sense for her to spend her time at the consulting job and shop for her vegetables? 
+
+720: Residents of the town of Smithfield like to consume hams, but each ham requires 10 people to produce it and takes a month. If the town has a total of 100 people, what is the maximum amount of ham the residents can consume in a month? 
+
+721: What is an example of a problem in the world today, not mentioned in the chapter, that has an economic dimension? 
+    
+
+722: What would be another example of a “system” in the real world that could serve as a metaphor for micro and macroeconomics?
+
+
+723: What is scarcity? Can you think of two causes of scarcity? 
+

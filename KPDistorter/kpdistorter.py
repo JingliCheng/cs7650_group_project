@@ -7,7 +7,7 @@ from typing import List, Dict, Any, Tuple
 class KeyPointDistorter:
     Index_list = 'ABCDEFGHIJK'
 
-    def __init__(self, client, model: str = "gpt-4o", temperature: float = 0.0, seed: int = None):
+    def __init__(self, client, model: str = "gpt-4o-mini", temperature: float = 0.0, seed: int = None):
         """Initialize the KeyPointDistorter with OpenAI client and parameters.
         Args:
             client: openai.OpenAI or openai.AzureOpenAI
@@ -40,7 +40,9 @@ class KeyPointDistorter:
         Gold Answer: {question['answer']}
         Your task: Think about the question and understand the answer first, \
 then extract complete bullet points that are key keypoints based on the answer \
-for rebuilding the answer from scratch for the same question, more keypoints will be helpful. At leat find 5 keypoints.
+for rebuilding the answer from scratch for the same question, more keypoints will be helpful. At leat find 5 keypoints. \
+In the output json, keypoints' name should be different to serve as a key. If two keypoints are the same, name the second \
+one with a different name.
         Return a JSON object in this exact format:
                 {{
                     "Analysis": "Analysis of the question, answer, and the keypoints",
